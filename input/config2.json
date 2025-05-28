@@ -1,0 +1,65 @@
+{
+  "videos": [
+    {
+      "input": "input/balikavadhu.mp4",
+      "output": "output/balikavadhu_with_overlay.mp4",
+      "overlays": [
+        {
+          "graphic": "graphics/lOGO.mov",
+          "position": "10:10",
+          "mode": "always"
+        },
+        {
+          "graphic": "graphics/nextshow.mov",
+          "position": "main_w-overlay_w-10:main_h-overlay_h-10",
+          "mode": "periodic",
+          "interval": 180,
+          "duration": 11
+        },
+        {
+          "graphic": "graphics/BACKIN.mov",
+          "position": "main_w-overlay_w-100:100",
+          "mode": "flash",
+          "start": 600,
+          "duration": 10
+        }
+      ]
+    },
+    {
+      "input": "input/dori.mp4",
+      "output": "processed/dori_with_overlay.mp4",
+      "overlays": [
+        {
+          "graphic": "graphics/LOGO.mov",
+          "position": "10:10",
+          "mode": "always"
+        },
+        {
+          "graphic": "graphics/nextshow.mov",
+          "position": "100:300",
+          "mode": "periodic",
+          "interval": 180,
+          "duration": 11
+        }
+      ]
+    },
+    { 
+      "input": "/home/ishitasinghfaujdar/pmsltask/input/shows/test_output.mp4",
+      "output": "processed/theoffice_with_with_overlay.mp4",
+      "overlays": [
+        {
+          "graphic": "graphics/LOGO.mov",
+          "position": "10:10",
+          "mode": "always"
+        },
+        {
+          "graphic": "graphics/nextshow.mov",
+          "position": "main_w-overlay_w-10:main_h-overlay_h-10",
+          "mode": "periodic",
+          "interval": 180,
+          "duration": 11
+        }
+    ]
+  }
+  ]
+}
