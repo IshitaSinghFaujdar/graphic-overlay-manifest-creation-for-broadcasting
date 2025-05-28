@@ -1,0 +1,24 @@
+{
+  "videos": [
+    {
+      "id": "GSH131768",
+      "file_path": "/home/ishitasinghfaujdar/pmsltask/output/GSH131768_overlay.mp4"
+    },
+    {
+      "id": "GSH132059",
+      "file_path": "/home/ishitasinghfaujdar/pmsltask/output/GSH132059_overlay.mp4"
+    },
+    {
+        "id":"PRG578571",
+        "file_path":"/home/ishitasinghfaujdar/pmsltask/output/PRG578571_test_overlay.mp4"
+    }
+  ],
+  "ads": [{   "filename": "/home/ishitasinghfaujdar/pmsltask/ads/coca-cola-commercial.mp4", "name":"Ad 1","duration":63},
+    { "filename":"/home/ishitasinghfaujdar/pmsltask/ads/gems.mp4","name":"Ad 2", "duration":66},
+    {"filename":"/home/ishitasinghfaujdar/pmsltask/ads/fewikwik.mp4","name":"Ad 3","duration":40}
+
+  ],
+  "segment_duration_sec": 10,
+  "cue_interval_sec": 420,    
+  "min_last_segment_sec": 240
+}
