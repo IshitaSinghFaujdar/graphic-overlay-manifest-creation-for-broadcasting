@@ -1,0 +1,24 @@
+{
+  "videos": [
+    
+    {
+      "input": "/home/ishitasinghfaujdar/pmsltask/input/PRG578571_test.mp4",
+      "output": "/home/ishitasinghfaujdar/pmsltask/output/PRG578571_test_overlay.mp4",
+      "overlays": [
+        {
+          "graphic": "/home/ishitasinghfaujdar/pmsltask/graphics/logo.mov",
+          "position": "10:10",
+          "mode": "always"
+        },
+        {
+          "graphic": "/home/ishitasinghfaujdar/pmsltask/graphics/nextshow.mov",
+          "position": "-100:300",
+          "mode": "periodic",
+          "interval": 180,
+          "duration": 11
+        }
+      ]
+    
+    }
+  ]
+}
