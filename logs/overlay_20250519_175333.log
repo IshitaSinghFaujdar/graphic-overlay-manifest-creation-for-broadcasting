@@ -1,0 +1,10 @@
+2025-05-19 17:53:33,686 | INFO | ====== OVERLAY PIPELINE STARTED ======
+2025-05-19 17:53:33,689 | INFO | ====== PROCESSING /HOME/ISHITASINGHFAUJDAR/PMSLTASK/INPUT/BALIKAVADHU.MP4 ======
+2025-05-19 17:53:33,690 | INFO | Running FFmpeg for /home/ishitasinghfaujdar/pmsltask/input/balikavadhu.mp4
+2025-05-19 17:53:33,767 | ERROR | ❌ FFmpeg failed with code 254
+2025-05-19 17:53:33,772 | INFO | ====== PROCESSING /HOME/ISHITASINGHFAUJDAR/PMSLTASK/INPUT/DORI.MP4 ======
+2025-05-19 17:53:33,775 | INFO | Running FFmpeg for /home/ishitasinghfaujdar/pmsltask/input/dori.mp4
+2025-05-19 17:53:34,881 | INFO | [ffmpeg] frame=    0 fps=0.0 q=0.0 size=       0KiB time=N/A bitrate=N/A speed=N/A elapsed=0:00:00.50
+2025-05-19 17:54:34,982 | INFO | [ffmpeg] frame= 1264 fps= 21 q=28.0 size=   30464KiB time=00:00:50.48 bitrate=4943.8kbits/s speed=0.833x elapsed=0:01:00.60
+2025-05-19 17:55:35,138 | INFO | [ffmpeg] frame= 2033 fps= 17 q=28.0 size=   62976KiB time=00:01:21.24 bitrate=6350.3kbits/s speed=0.673x elapsed=0:02:00.75
+2025-05-19 17:56:35,253 | INFO | [ffmpeg] frame= 2838 fps= 16 q=28.0 size=  100864KiB time=00:01:53.44 bitrate=7283.8kbits/s speed=0.627x elapsed=0:03:00.87

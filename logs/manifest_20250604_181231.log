@@ -1,0 +1,9 @@
+2025-06-04 18:12:31,866 | INFO | ====== SEGMENTING GSH131768 ======
+2025-06-04 18:12:31,868 | INFO | Running FFmpeg: ffmpeg -y -i /home/ishitasinghfaujdar/pmsltask/output/GSH131768_overlay.mp4 -c copy -map 0 -f segment -segment_time 6 -reset_timestamps 1 output/GSH131768/seg%03d.ts
+2025-06-04 18:12:45,718 | INFO | ====== GETTING SEGMENT DURATIONS FOR GSH131768 ======
+2025-06-04 18:13:04,952 | INFO | ====== SEGMENTING GSH132059 ======
+2025-06-04 18:13:04,956 | INFO | Running FFmpeg: ffmpeg -y -i /home/ishitasinghfaujdar/pmsltask/output/GSH132059_overlay.mp4 -c copy -map 0 -f segment -segment_time 6 -reset_timestamps 1 output/GSH132059/seg%03d.ts
+2025-06-04 18:13:21,967 | INFO | ====== GETTING SEGMENT DURATIONS FOR GSH132059 ======
+2025-06-04 18:13:42,046 | INFO | ====== SEGMENTING PRG578571 ======
+2025-06-04 18:13:42,050 | INFO | Running FFmpeg: ffmpeg -y -i /home/ishitasinghfaujdar/pmsltask/output/PRG578571_test_overlay.mp4 -c copy -map 0 -f segment -segment_time 6 -reset_timestamps 1 output/PRG578571/seg%03d.ts
+2025-06-04 18:13:54,847 | INFO | ====== GETTING SEGMENT DURATIONS FOR PRG578571 ======

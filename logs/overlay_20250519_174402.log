@@ -1,0 +1,166 @@
+2025-05-19 17:44:02,983 | INFO | ====== OVERLAY PIPELINE STARTED ======
+2025-05-19 17:44:02,985 | INFO | ====== PROCESSING INPUT/BALIKAVADHU.MP4 ======
+2025-05-19 17:44:02,986 | INFO | Running FFmpeg for input/balikavadhu.mp4
+2025-05-19 17:44:03,063 | ERROR | ❌ FFmpeg failed: ffmpeg version N-119578-geb6dc952cb Copyright (c) 2000-2025 the FFmpeg developers
+  built with gcc 11 (GCC)
+  configuration: --enable-gpl --enable-nonfree --enable-libx264 --enable-libx265 --enable-libvpx --enable-libfreetype --enable-openssl --enable-libass --enable-libmp3lame --enable-libopus --enable-libvorbis
+  libavutil      60.  2.100 / 60.  2.100
+  libavcodec     62.  3.101 / 62.  3.101
+  libavformat    62.  0.102 / 62.  0.102
+  libavdevice    62.  0.100 / 62.  0.100
+  libavfilter    11.  0.100 / 11.  0.100
+  libswscale      9.  0.100 /  9.  0.100
+  libswresample   6.  0.100 /  6.  0.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'input/balikavadhu.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : Lavf57.79.100
+  Duration: 00:21:47.01, start: 0.000000, bitrate: 20723 kb/s
+  Stream #0:0[0x1](und): Video: mpeg4 (Simple Profile) (mp4v / 0x7634706D), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], 19895 kb/s, 25 fps, 25 tbr, 12800 tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+      timecode        : 10:00:00:00
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, mono, fltp, 199 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:2[0x3](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, mono, fltp, 199 kb/s
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:3[0x4](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, mono, fltp, 1 kb/s
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:4[0x5](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, mono, fltp, 1 kb/s
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:5[0x6](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, mono, fltp, 1 kb/s
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:6[0x7](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, mono, fltp, 1 kb/s
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:7[0x8](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, mono, fltp, 199 kb/s
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:8[0x9](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, mono, fltp, 199 kb/s
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:9[0xa](eng): Data: none (tmcd / 0x64636D74)
+    Metadata:
+      handler_name    : TimeCodeHandler
+      timecode        : 10:00:00:00
+[in#1 @ 0x4d65900] Error opening input: No such file or directory
+Error opening input file graphics/lOGO.mov.
+Error opening input files: No such file or directory
+
+2025-05-19 17:44:03,085 | INFO | ====== PROCESSING INPUT/DORI.MP4 ======
+2025-05-19 17:44:03,087 | INFO | Running FFmpeg for input/dori.mp4
+2025-05-19 17:44:03,180 | ERROR | ❌ FFmpeg failed: ffmpeg version N-119578-geb6dc952cb Copyright (c) 2000-2025 the FFmpeg developers
+  built with gcc 11 (GCC)
+  configuration: --enable-gpl --enable-nonfree --enable-libx264 --enable-libx265 --enable-libvpx --enable-libfreetype --enable-openssl --enable-libass --enable-libmp3lame --enable-libopus --enable-libvorbis
+  libavutil      60.  2.100 / 60.  2.100
+  libavcodec     62.  3.101 / 62.  3.101
+  libavformat    62.  0.102 / 62.  0.102
+  libavdevice    62.  0.100 / 62.  0.100
+  libavfilter    11.  0.100 / 11.  0.100
+  libswscale      9.  0.100 /  9.  0.100
+  libswresample   6.  0.100 /  6.  0.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'input/dori.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : Lavf57.79.100
+  Duration: 00:23:03.04, start: 0.000000, bitrate: 20938 kb/s
+  Stream #0:0[0x1](und): Video: mpeg4 (Simple Profile) (mp4v / 0x7634706D), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], 19570 kb/s, 25 fps, 25 tbr, 12800 tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+      timecode        : 10:00:00:00
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, mono, fltp, 179 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:2[0x3](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, mono, fltp, 180 kb/s
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:3[0x4](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, mono, fltp, 124 kb/s
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:4[0x5](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, mono, fltp, 153 kb/s
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:5[0x6](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, mono, fltp, 159 kb/s
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:6[0x7](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, mono, fltp, 161 kb/s
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:7[0x8](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, mono, fltp, 191 kb/s
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:8[0x9](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, mono, fltp, 192 kb/s
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:9[0xa](eng): Data: none (tmcd / 0x64636D74)
+    Metadata:
+      handler_name    : TimeCodeHandler
+      timecode        : 10:00:00:00
+Input #1, mov,mp4,m4a,3gp,3g2,mj2, from 'graphics/LOGO.mov':
+  Metadata:
+    major_brand     : qt  
+    minor_version   : 537199360
+    compatible_brands: qt  
+    creation_time   : 2022-09-26T16:05:01.000000Z
+  Duration: 00:00:10.04, start: 0.000000, bitrate: 44820 kb/s
+  Stream #1:0[0x1](eng): Video: qtrle (rle  / 0x20656C72), argb(progressive), 1920x1080, 43985 kb/s, SAR 1:1 DAR 16:9, 25 fps, 25 tbr, 25 tbn (default)
+    Metadata:
+      creation_time   : 2022-09-26T16:05:01.000000Z
+      handler_name    : Apple Video Media Handler
+      vendor_id       : appl
+      encoder         : Animation
+      timecode        : 00:00:00:00
+  Stream #1:1[0x2](eng): Data: none (tmcd / 0x64636D74), 0 kb/s (default)
+    Metadata:
+      creation_time   : 2022-09-26T16:05:01.000000Z
+      handler_name    : Time Code Media Handler
+      timecode        : 00:00:00:00
+Input #2, mov,mp4,m4a,3gp,3g2,mj2, from 'graphics/nextshow_fixed.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf62.0.102
+  Duration: 00:00:19.88, start: 0.000000, bitrate: 147 kb/s
+  Stream #2:0[0x1](eng): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1920x1080 [SAR 1:1 DAR 16:9], 144 kb/s, 25 fps, 25 tbr, 12800 tbn (default)
+    Metadata:
+      handler_name    : Apple Video Media Handler
+      vendor_id       : [0][0][0][0]
+      encoder         : Lavc62.3.101 libx264
+      timecode        : 00:00:00:00
+  Stream #2:1[0x2](eng): Data: none (tmcd / 0x64636D74), 0 kb/s
+    Metadata:
+      handler_name    : Apple Video Media Handler
+      timecode        : 00:00:00:00
+[out#0/mp4 @ 0x56927c0] Error opening output processed/dori_with_overlay.mp4: No such file or directory
+Error opening output file processed/dori_with_overlay.mp4.
+Error opening output files: No such file or directory
+
+2025-05-19 17:44:03,224 | INFO | ====== PIPELINE COMPLETE ======

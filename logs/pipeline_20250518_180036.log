@@ -1,0 +1,9 @@
+2025-05-18 18:00:36,897 | INFO | ━━━━━━━━━━━━━━━ STARTING PREPROCESSING ━━━━━━━━━━━━━━━
+2025-05-18 18:00:37,074 | ERROR | ❌ Failed to overlay graphics/LOGO.mov on input/dori.mp4: Command '['ffmpeg', '-i', 'input/dori.mp4', '-i', 'graphics/LOGO.mov', '-filter_complex', 'overlay=10:10', '-codec:a', 'copy', 'processed_videos/input/dori_with_overlay.mp4', '-y']' returned non-zero exit status 254.
+2025-05-18 18:00:37,183 | ERROR | ❌ Failed to overlay graphics/LOGO.mov on input/balikavadhu.mp4: Command '['ffmpeg', '-i', 'input/balikavadhu.mp4', '-i', 'graphics/LOGO.mov', '-filter_complex', 'overlay=10:10', '-codec:a', 'copy', 'processed_videos/input/balikavadhu_with_overlay.mp4', '-y']' returned non-zero exit status 254.
+2025-05-18 18:00:38,563 | ERROR | ❌ Failed to overlay graphics/nextshow.mov on input/theoffice.mp4: Command '['ffmpeg', '-i', 'input/theoffice.mp4', '-i', 'graphics/nextshow.mov', '-filter_complex', 'overlay=main_w-overlay_w-10:main_h-overlay_h-10', '-codec:a', 'copy', 'processed_videos/input/theoffice_with_overlay.mp4', '-y']' returned non-zero exit status 254.
+2025-05-18 18:00:38,571 | INFO | ━━━━━━━━━━━━━━━ ✅ SUMMARY ━━━━━━━━━━━━━━━
+2025-05-18 18:00:38,575 | INFO | 🟢 Successes: 0
+2025-05-18 18:00:38,578 | INFO | 🟡 Warnings: 0
+2025-05-18 18:00:38,582 | INFO | 🔴 Errors: 3
+2025-05-18 18:00:38,584 | WARNING | ⚠️ Some tasks failed. Check above for details.

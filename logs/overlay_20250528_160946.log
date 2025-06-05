@@ -1,0 +1,18 @@
+2025-05-28 16:09:46,188 | INFO | ====== OVERLAY PIPELINE STARTED ======
+2025-05-28 16:09:46,191 | INFO | ====== PROCESSING /HOME/ISHITASINGHFAUJDAR/PMSLTASK/INPUT/DORI.MP4 ======
+2025-05-28 16:09:46,192 | INFO | Running FFmpeg for /home/ishitasinghfaujdar/pmsltask/input/dori.mp4
+2025-05-28 16:09:46,213 | ERROR | ❌ FFmpeg failed with return code 254
+2025-05-28 16:09:46,217 | ERROR | ffmpeg version N-119578-geb6dc952cb Copyright (c) 2000-2025 the FFmpeg developers
+2025-05-28 16:09:46,220 | ERROR | built with gcc 11 (GCC)
+2025-05-28 16:09:46,222 | ERROR | configuration: --enable-gpl --enable-nonfree --enable-libx264 --enable-libx265 --enable-libvpx --enable-libfreetype --enable-openssl --enable-libass --enable-libmp3lame --enable-libopus --enable-libvorbis
+2025-05-28 16:09:46,225 | ERROR | libavutil      60.  2.100 / 60.  2.100
+2025-05-28 16:09:46,227 | ERROR | libavcodec     62.  3.101 / 62.  3.101
+2025-05-28 16:09:46,229 | ERROR | libavformat    62.  0.102 / 62.  0.102
+2025-05-28 16:09:46,231 | ERROR | libavdevice    62.  0.100 / 62.  0.100
+2025-05-28 16:09:46,233 | ERROR | libavfilter    11.  0.100 / 11.  0.100
+2025-05-28 16:09:46,234 | ERROR | libswscale      9.  0.100 /  9.  0.100
+2025-05-28 16:09:46,236 | ERROR | libswresample   6.  0.100 /  6.  0.100
+2025-05-28 16:09:46,237 | ERROR | [in#0 @ 0x44ee240] Error opening input: No such file or directory
+2025-05-28 16:09:46,239 | ERROR | Error opening input file /home/ishitasinghfaujdar/pmsltask/input/dori.mp4.
+2025-05-28 16:09:46,240 | ERROR | Error opening input files: No such file or directory
+2025-05-28 16:09:46,243 | INFO | ====== PIPELINE COMPLETE ======

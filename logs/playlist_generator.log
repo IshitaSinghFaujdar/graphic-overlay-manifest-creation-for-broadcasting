@@ -1,0 +1,22 @@
+2025-05-19 14:31:56,183 | INFO | Starting playlist generation with 4 shows
+2025-05-19 14:31:56,184 | INFO | Added segment: shows/show1.mp4 [Part 1] 0-420
+2025-05-19 14:31:56,184 | INFO | Inserted ad placeholder after Part 1
+2025-05-19 14:31:56,185 | INFO | Added segment: shows/show1.mp4 [Part 2] 420-840
+2025-05-19 14:31:56,185 | INFO | Inserted ad placeholder after Part 2
+2025-05-19 14:31:56,185 | INFO | Added segment: shows/show1.mp4 [Part 3] 840-1260
+2025-05-19 14:31:56,185 | INFO | Added segment: shows/show2.mp4 [Part 1] 0-420
+2025-05-19 14:31:56,185 | INFO | Inserted ad placeholder after Part 1
+2025-05-19 14:31:56,185 | INFO | Added segment: shows/show2.mp4 [Part 2] 420-840
+2025-05-19 14:31:56,185 | INFO | Inserted ad placeholder after Part 2
+2025-05-19 14:31:56,185 | INFO | Added segment: shows/show2.mp4 [Part 3] 840-1260
+2025-05-19 14:31:56,185 | INFO | Added segment: shows/show3.mp4 [Part 1] 0-420
+2025-05-19 14:31:56,185 | INFO | Inserted ad placeholder after Part 1
+2025-05-19 14:31:56,185 | INFO | Added segment: shows/show3.mp4 [Part 2] 420-840
+2025-05-19 14:31:56,185 | INFO | Inserted ad placeholder after Part 2
+2025-05-19 14:31:56,185 | INFO | Added segment: shows/show3.mp4 [Part 3] 840-1260
+2025-05-19 14:31:56,185 | INFO | Added segment: shows/show4.mp4 [Part 1] 0-420
+2025-05-19 14:31:56,185 | INFO | Inserted ad placeholder after Part 1
+2025-05-19 14:31:56,185 | INFO | Added segment: shows/show4.mp4 [Part 2] 420-840
+2025-05-19 14:31:56,185 | INFO | Inserted ad placeholder after Part 2
+2025-05-19 14:31:56,185 | INFO | Added segment: shows/show4.mp4 [Part 3] 840-1260
+2025-05-19 14:31:56,186 | INFO | ✅ Playlist saved to: evening_show.m3u8

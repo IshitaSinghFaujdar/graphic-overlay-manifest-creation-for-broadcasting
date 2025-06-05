@@ -1,0 +1,4 @@
+2025-05-28 22:12:28,507 | INFO | ====== LOAD CONFIG ======
+2025-05-28 22:12:28,509 | INFO | ====== STARTING MANIFEST CREATION ======
+2025-05-28 22:12:28,510 | INFO | Number of ads to cycle: 3
+2025-05-28 22:12:28,511 | INFO | Running FFmpeg segmentation: ffmpeg -y -i /home/ishitasinghfaujdar/pmsltask/ads/coca-cola-commercial.mp4 -c copy -map 0 -f segment -segment_time 10 -reset_timestamps 1 /home/ishitasinghfaujdar/pmsltask/ads/coca-cola-commercial.mp4_seg%03d.ts

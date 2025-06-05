@@ -1,0 +1,44 @@
+2025-05-28 19:02:28,514 | INFO | ====== OVERLAY PIPELINE STARTED ======
+2025-05-28 19:02:28,516 | INFO | ====== PROCESSING /HOME/ISHITASINGHFAUJDAR/PMSLTASK/INPUT/PRG578571_TEST.MP4 ======
+2025-05-28 19:02:28,517 | INFO | Running FFmpeg for /home/ishitasinghfaujdar/pmsltask/input/PRG578571_test.mp4
+2025-05-28 19:02:29,616 | INFO | [ffmpeg] frame=    0 fps=0.0 q=0.0 size=       0KiB time=N/A bitrate=N/A speed=N/A elapsed=0:00:00.50
+2025-05-28 19:03:29,677 | INFO | [ffmpeg] frame= 1138 fps= 19 q=28.0 size=   24320KiB time=00:00:45.44 bitrate=4384.5kbits/s speed=0.75x elapsed=0:01:00.55
+2025-05-28 19:04:29,768 | INFO | [ffmpeg] frame= 2123 fps= 18 q=28.0 size=   48384KiB time=00:01:24.84 bitrate=4671.9kbits/s speed=0.703x elapsed=0:02:00.65
+2025-05-28 19:05:29,872 | INFO | [ffmpeg] frame= 2993 fps= 17 q=28.0 size=   76544KiB time=00:01:59.64 bitrate=5241.1kbits/s speed=0.662x elapsed=0:03:00.75
+2025-05-28 19:06:29,971 | INFO | [ffmpeg] frame= 3865 fps= 16 q=28.0 size=  103424KiB time=00:02:34.52 bitrate=5483.1kbits/s speed=0.642x elapsed=0:04:00.85
+2025-05-28 19:07:30,032 | INFO | [ffmpeg] frame= 4685 fps= 16 q=28.0 size=  128256KiB time=00:03:07.32 bitrate=5609.0kbits/s speed=0.623x elapsed=0:05:00.91
+2025-05-28 19:08:30,139 | INFO | [ffmpeg] frame= 5488 fps= 15 q=28.0 size=  152320KiB time=00:03:39.44 bitrate=5686.3kbits/s speed=0.608x elapsed=0:06:01.02
+2025-05-28 19:09:30,235 | INFO | [ffmpeg] frame= 6318 fps= 15 q=28.0 size=  174848KiB time=00:04:12.64 bitrate=5669.6kbits/s speed= 0.6x elapsed=0:07:01.11
+2025-05-28 19:10:30,315 | INFO | [ffmpeg] frame= 7107 fps= 15 q=28.0 size=  198144KiB time=00:04:44.20 bitrate=5711.5kbits/s speed=0.591x elapsed=0:08:01.19
+2025-05-28 19:11:30,442 | INFO | [ffmpeg] frame= 7907 fps= 15 q=28.0 size=  217600KiB time=00:05:16.20 bitrate=5637.5kbits/s speed=0.584x elapsed=0:09:01.32
+2025-05-28 19:12:30,543 | INFO | [ffmpeg] frame= 8707 fps= 14 q=28.0 size=  239104KiB time=00:05:48.20 bitrate=5625.3kbits/s speed=0.579x elapsed=0:10:01.42
+2025-05-28 19:13:30,649 | INFO | [ffmpeg] frame= 9488 fps= 14 q=28.0 size=  262400KiB time=00:06:19.44 bitrate=5665.1kbits/s speed=0.574x elapsed=0:11:01.53
+2025-05-28 19:14:30,708 | INFO | [ffmpeg] frame=10328 fps= 14 q=28.0 size=  284672KiB time=00:06:53.04 bitrate=5646.0kbits/s speed=0.572x elapsed=0:12:01.59
+2025-05-28 19:15:30,795 | INFO | [ffmpeg] frame=11166 fps= 14 q=28.0 size=  308480KiB time=00:07:26.56 bitrate=5659.0kbits/s speed=0.571x elapsed=0:13:01.67
+2025-05-28 19:16:30,919 | INFO | [ffmpeg] frame=11980 fps= 14 q=28.0 size=  330496KiB time=00:07:59.12 bitrate=5650.8kbits/s speed=0.569x elapsed=0:14:01.79
+2025-05-28 19:17:31,007 | INFO | [ffmpeg] frame=12807 fps= 14 q=28.0 size=  353024KiB time=00:08:32.20 bitrate=5646.2kbits/s speed=0.568x elapsed=0:15:01.89
+2025-05-28 19:18:31,091 | INFO | [ffmpeg] frame=13618 fps= 14 q=28.0 size=  373760KiB time=00:09:04.64 bitrate=5621.8kbits/s speed=0.566x elapsed=0:16:01.97
+2025-05-28 19:19:31,176 | INFO | [ffmpeg] frame=14488 fps= 14 q=28.0 size=  394496KiB time=00:09:39.44 bitrate=5577.3kbits/s speed=0.567x elapsed=0:17:02.06
+2025-05-28 19:20:31,271 | INFO | [ffmpeg] frame=15278 fps= 14 q=28.0 size=  418560KiB time=00:10:11.04 bitrate=5611.5kbits/s speed=0.565x elapsed=0:18:02.15
+2025-05-28 19:21:31,399 | INFO | [ffmpeg] frame=16073 fps= 14 q=28.0 size=  442112KiB time=00:10:42.84 bitrate=5634.0kbits/s speed=0.563x elapsed=0:19:02.28
+2025-05-28 19:22:31,508 | INFO | [ffmpeg] frame=16846 fps= 14 q=28.0 size=  466176KiB time=00:11:13.76 bitrate=5668.1kbits/s speed=0.56x elapsed=0:20:02.39
+2025-05-28 19:23:31,612 | INFO | [ffmpeg] frame=17612 fps= 14 q=28.0 size=  490752KiB time=00:11:44.40 bitrate=5707.3kbits/s speed=0.558x elapsed=0:21:02.49
+2025-05-28 19:24:31,709 | INFO | [ffmpeg] frame=18388 fps= 14 q=28.0 size=  515072KiB time=00:12:15.44 bitrate=5737.3kbits/s speed=0.556x elapsed=0:22:02.59
+2025-05-28 19:25:31,796 | INFO | [ffmpeg] frame=19178 fps= 14 q=28.0 size=  537856KiB time=00:12:47.04 bitrate=5744.3kbits/s speed=0.555x elapsed=0:23:02.68
+2025-05-28 19:26:31,977 | INFO | [ffmpeg] frame=19987 fps= 14 q=28.0 size=  560384KiB time=00:13:19.40 bitrate=5742.6kbits/s speed=0.554x elapsed=0:24:02.86
+2025-05-28 19:27:32,061 | INFO | [ffmpeg] frame=20767 fps= 14 q=28.0 size=  583168KiB time=00:13:50.60 bitrate=5751.6kbits/s speed=0.553x elapsed=0:25:02.93
+2025-05-28 19:28:32,152 | INFO | [ffmpeg] frame=21616 fps= 14 q=28.0 size=  604672KiB time=00:14:24.56 bitrate=5729.5kbits/s speed=0.553x elapsed=0:26:03.03
+2025-05-28 19:29:32,224 | INFO | [ffmpeg] frame=22440 fps= 14 q=28.0 size=  626688KiB time=00:14:57.52 bitrate=5720.0kbits/s speed=0.553x elapsed=0:27:03.10
+2025-05-28 19:30:32,306 | INFO | [ffmpeg] frame=23190 fps= 14 q=28.0 size=  649984KiB time=00:15:27.52 bitrate=5740.8kbits/s speed=0.551x elapsed=0:28:03.18
+2025-05-28 19:31:32,407 | INFO | [ffmpeg] frame=23972 fps= 14 q=28.0 size=  672000KiB time=00:15:58.80 bitrate=5741.6kbits/s speed=0.55x elapsed=0:29:03.29
+2025-05-28 19:32:32,578 | INFO | [ffmpeg] frame=24690 fps= 14 q=28.0 size=  690944KiB time=00:16:27.52 bitrate=5731.7kbits/s speed=0.548x elapsed=0:30:03.46
+2025-05-28 19:33:32,670 | INFO | [ffmpeg] frame=25460 fps= 14 q=28.0 size=  713728KiB time=00:16:58.32 bitrate=5741.7kbits/s speed=0.546x elapsed=0:31:03.55
+2025-05-28 19:34:32,794 | INFO | [ffmpeg] frame=26227 fps= 14 q=28.0 size=  738048KiB time=00:17:29.00 bitrate=5763.7kbits/s speed=0.545x elapsed=0:32:03.67
+2025-05-28 19:35:32,883 | INFO | [ffmpeg] frame=26996 fps= 14 q=28.0 size=  761088KiB time=00:17:59.76 bitrate=5774.3kbits/s speed=0.544x elapsed=0:33:03.76
+2025-05-28 19:36:33,015 | INFO | [ffmpeg] frame=27802 fps= 14 q=28.0 size=  782336KiB time=00:18:32.00 bitrate=5763.4kbits/s speed=0.544x elapsed=0:34:03.89
+2025-05-28 19:37:33,114 | INFO | [ffmpeg] frame=28603 fps= 14 q=28.0 size=  803840KiB time=00:19:04.04 bitrate=5756.0kbits/s speed=0.544x elapsed=0:35:03.99
+2025-05-28 19:38:33,210 | INFO | [ffmpeg] frame=29384 fps= 14 q=28.0 size=  825344KiB time=00:19:35.28 bitrate=5752.9kbits/s speed=0.543x elapsed=0:36:04.09
+2025-05-28 19:39:33,345 | INFO | [ffmpeg] frame=30170 fps= 14 q=28.0 size=  845568KiB time=00:20:06.72 bitrate=5740.3kbits/s speed=0.543x elapsed=0:37:04.22
+2025-05-28 19:40:33,490 | INFO | [ffmpeg] frame=31116 fps= 14 q=28.0 size=  867072KiB time=00:20:44.56 bitrate=5707.3kbits/s speed=0.545x elapsed=0:38:04.37
+2025-05-28 19:40:57,829 | INFO | ✅ FFmpeg finished successfully.
+2025-05-28 19:40:57,832 | INFO | ====== PIPELINE COMPLETE ======

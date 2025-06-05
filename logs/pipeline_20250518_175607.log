@@ -1,0 +1,9 @@
+2025-05-18 17:56:07,619 | INFO | ━━━━━━━━━━━━━━━ STARTING PREPROCESSING ━━━━━━━━━━━━━━━
+2025-05-18 17:56:07,621 | WARNING | ⚠️ Skipping [red]dori.mp4[/red]: File not found.
+2025-05-18 17:56:07,622 | WARNING | ⚠️ Skipping [red]balikavadhu.mp4[/red]: File not found.
+2025-05-18 17:56:07,624 | WARNING | ⚠️ Skipping [red]theoffice.mp4[/red]: File not found.
+2025-05-18 17:56:07,626 | INFO | ━━━━━━━━━━━━━━━ ✅ SUMMARY ━━━━━━━━━━━━━━━
+2025-05-18 17:56:07,628 | INFO | 🟢 Successes: 0
+2025-05-18 17:56:07,629 | INFO | 🟡 Warnings: 3
+2025-05-18 17:56:07,631 | INFO | 🔴 Errors: 0
+2025-05-18 17:56:07,633 | INFO | 🎉 All tasks completed successfully.

@@ -1,0 +1,20 @@
+2025-06-04 18:37:10,161 | INFO | ====== SEGMENTING AD1 ======
+2025-06-04 18:37:10,164 | INFO | Running FFmpeg: ffmpeg -y -i /home/ishitasinghfaujdar/pmsltask/ads/coca-cola-commercial.mp4 -c copy -map 0 -f segment -segment_time 6 -reset_timestamps 1 output/Ad1/seg%03d.ts
+2025-06-04 18:37:10,447 | INFO | ====== GETTING SEGMENT DURATIONS FOR AD1 ======
+2025-06-04 18:37:10,967 | INFO | ====== SEGMENTING AD2 ======
+2025-06-04 18:37:10,971 | INFO | Running FFmpeg: ffmpeg -y -i /home/ishitasinghfaujdar/pmsltask/ads/gems.mp4 -c copy -map 0 -f segment -segment_time 6 -reset_timestamps 1 output/Ad2/seg%03d.ts
+2025-06-04 18:37:11,190 | INFO | ====== GETTING SEGMENT DURATIONS FOR AD2 ======
+2025-06-04 18:37:11,686 | INFO | ====== SEGMENTING AD3 ======
+2025-06-04 18:37:11,690 | INFO | Running FFmpeg: ffmpeg -y -i /home/ishitasinghfaujdar/pmsltask/ads/fewikwik.mp4 -c copy -map 0 -f segment -segment_time 6 -reset_timestamps 1 output/Ad3/seg%03d.ts
+2025-06-04 18:37:11,856 | INFO | ====== GETTING SEGMENT DURATIONS FOR AD3 ======
+2025-06-04 18:37:12,171 | INFO | ====== SEGMENTING GSH131768 ======
+2025-06-04 18:37:12,174 | INFO | Running FFmpeg: ffmpeg -y -i /home/ishitasinghfaujdar/pmsltask/output/GSH131768_overlay.mp4 -c copy -map 0 -f segment -segment_time 6 -reset_timestamps 1 output/GSH131768/seg%03d.ts
+2025-06-04 18:37:33,572 | INFO | ====== GETTING SEGMENT DURATIONS FOR GSH131768 ======
+2025-06-04 18:37:52,795 | INFO | ====== SEGMENTING GSH132059 ======
+2025-06-04 18:37:52,800 | INFO | Running FFmpeg: ffmpeg -y -i /home/ishitasinghfaujdar/pmsltask/output/GSH132059_overlay.mp4 -c copy -map 0 -f segment -segment_time 6 -reset_timestamps 1 output/GSH132059/seg%03d.ts
+2025-06-04 18:38:09,783 | INFO | ====== GETTING SEGMENT DURATIONS FOR GSH132059 ======
+2025-06-04 18:38:29,923 | INFO | ====== SEGMENTING PRG578571 ======
+2025-06-04 18:38:29,927 | INFO | Running FFmpeg: ffmpeg -y -i /home/ishitasinghfaujdar/pmsltask/output/PRG578571_test_overlay.mp4 -c copy -map 0 -f segment -segment_time 6 -reset_timestamps 1 output/PRG578571/seg%03d.ts
+2025-06-04 18:38:42,478 | INFO | ====== GETTING SEGMENT DURATIONS FOR PRG578571 ======
+2025-06-04 18:39:00,364 | INFO | ====== WRITING STITCHED MASTER MANIFEST ======
+2025-06-04 18:39:00,370 | INFO | Timeline manifest written to output/stitched_master.m3u8

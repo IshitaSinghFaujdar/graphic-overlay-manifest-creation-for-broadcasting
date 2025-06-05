@@ -1,0 +1,8 @@
+2025-05-19 09:08:55,051 | INFO | ━━━━━━━━━━━━━━━ STARTING PREPROCESSING ━━━━━━━━━━━━━━━
+2025-05-19 09:08:55,055 | INFO | Starting overlay for input/theoffice.mp4 with graphics/nextshow_fixed.mp4
+2025-05-19 09:08:55,076 | ERROR | ❌ FFmpeg exited with code 234
+2025-05-19 09:08:55,082 | INFO | ━━━━━━━━━━━━━━━ ✅ SUMMARY ━━━━━━━━━━━━━━━
+2025-05-19 09:08:55,085 | INFO | 🟢 Successes: 0
+2025-05-19 09:08:55,088 | INFO | 🟡 Warnings: 0
+2025-05-19 09:08:55,091 | INFO | 🔴 Errors: 1
+2025-05-19 09:08:55,094 | WARNING | ⚠️ Some tasks failed. Check above for details.

@@ -1,0 +1,67 @@
+2025-05-19 18:00:59,398 | INFO | ====== OVERLAY PIPELINE STARTED ======
+2025-05-19 18:00:59,402 | INFO | ====== PROCESSING /HOME/ISHITASINGHFAUJDAR/PMSLTASK/INPUT/BALIKAVADHU.MP4 ======
+2025-05-19 18:00:59,404 | INFO | Running FFmpeg for /home/ishitasinghfaujdar/pmsltask/input/balikavadhu.mp4
+2025-05-19 18:00:59,520 | ERROR | ❌ FFmpeg failed with return code 254
+2025-05-19 18:00:59,524 | ERROR | ffmpeg version N-119578-geb6dc952cb Copyright (c) 2000-2025 the FFmpeg developers
+2025-05-19 18:00:59,526 | ERROR | built with gcc 11 (GCC)
+2025-05-19 18:00:59,528 | ERROR | configuration: --enable-gpl --enable-nonfree --enable-libx264 --enable-libx265 --enable-libvpx --enable-libfreetype --enable-openssl --enable-libass --enable-libmp3lame --enable-libopus --enable-libvorbis
+2025-05-19 18:00:59,531 | ERROR | libavutil      60.  2.100 / 60.  2.100
+2025-05-19 18:00:59,533 | ERROR | libavcodec     62.  3.101 / 62.  3.101
+2025-05-19 18:00:59,535 | ERROR | libavformat    62.  0.102 / 62.  0.102
+2025-05-19 18:00:59,537 | ERROR | libavdevice    62.  0.100 / 62.  0.100
+2025-05-19 18:00:59,540 | ERROR | libavfilter    11.  0.100 / 11.  0.100
+2025-05-19 18:00:59,542 | ERROR | libswscale      9.  0.100 /  9.  0.100
+2025-05-19 18:00:59,545 | ERROR | libswresample   6.  0.100 /  6.  0.100
+2025-05-19 18:00:59,549 | ERROR | Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home/ishitasinghfaujdar/pmsltask/input/balikavadhu.mp4':
+2025-05-19 18:00:59,554 | ERROR | Metadata:
+2025-05-19 18:00:59,558 | ERROR | major_brand     : isom
+2025-05-19 18:00:59,562 | ERROR | minor_version   : 512
+2025-05-19 18:00:59,567 | ERROR | compatible_brands: isomiso2mp41
+2025-05-19 18:00:59,571 | ERROR | encoder         : Lavf57.79.100
+2025-05-19 18:00:59,576 | ERROR | Duration: 00:21:47.01, start: 0.000000, bitrate: 20723 kb/s
+2025-05-19 18:00:59,580 | ERROR | Stream #0:0[0x1](und): Video: mpeg4 (Simple Profile) (mp4v / 0x7634706D), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], 19895 kb/s, 25 fps, 25 tbr, 12800 tbn (default)
+2025-05-19 18:00:59,588 | ERROR | Metadata:
+2025-05-19 18:00:59,592 | ERROR | handler_name    : VideoHandler
+2025-05-19 18:00:59,596 | ERROR | vendor_id       : [0][0][0][0]
+2025-05-19 18:00:59,601 | ERROR | timecode        : 10:00:00:00
+2025-05-19 18:00:59,605 | ERROR | Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, mono, fltp, 199 kb/s (default)
+2025-05-19 18:00:59,610 | ERROR | Metadata:
+2025-05-19 18:00:59,615 | ERROR | handler_name    : SoundHandler
+2025-05-19 18:00:59,619 | ERROR | vendor_id       : [0][0][0][0]
+2025-05-19 18:00:59,623 | ERROR | Stream #0:2[0x3](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, mono, fltp, 199 kb/s
+2025-05-19 18:00:59,629 | ERROR | Metadata:
+2025-05-19 18:00:59,633 | ERROR | handler_name    : SoundHandler
+2025-05-19 18:00:59,637 | ERROR | vendor_id       : [0][0][0][0]
+2025-05-19 18:00:59,642 | ERROR | Stream #0:3[0x4](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, mono, fltp, 1 kb/s
+2025-05-19 18:00:59,648 | ERROR | Metadata:
+2025-05-19 18:00:59,652 | ERROR | handler_name    : SoundHandler
+2025-05-19 18:00:59,657 | ERROR | vendor_id       : [0][0][0][0]
+2025-05-19 18:00:59,662 | ERROR | Stream #0:4[0x5](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, mono, fltp, 1 kb/s
+2025-05-19 18:00:59,668 | ERROR | Metadata:
+2025-05-19 18:00:59,672 | ERROR | handler_name    : SoundHandler
+2025-05-19 18:00:59,677 | ERROR | vendor_id       : [0][0][0][0]
+2025-05-19 18:00:59,680 | ERROR | Stream #0:5[0x6](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, mono, fltp, 1 kb/s
+2025-05-19 18:00:59,685 | ERROR | Metadata:
+2025-05-19 18:00:59,688 | ERROR | handler_name    : SoundHandler
+2025-05-19 18:00:59,691 | ERROR | vendor_id       : [0][0][0][0]
+2025-05-19 18:00:59,694 | ERROR | Stream #0:6[0x7](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, mono, fltp, 1 kb/s
+2025-05-19 18:00:59,698 | ERROR | Metadata:
+2025-05-19 18:00:59,700 | ERROR | handler_name    : SoundHandler
+2025-05-19 18:00:59,703 | ERROR | vendor_id       : [0][0][0][0]
+2025-05-19 18:00:59,706 | ERROR | Stream #0:7[0x8](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, mono, fltp, 199 kb/s
+2025-05-19 18:00:59,709 | ERROR | Metadata:
+2025-05-19 18:00:59,711 | ERROR | handler_name    : SoundHandler
+2025-05-19 18:00:59,714 | ERROR | vendor_id       : [0][0][0][0]
+2025-05-19 18:00:59,720 | ERROR | Stream #0:8[0x9](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, mono, fltp, 199 kb/s
+2025-05-19 18:00:59,729 | ERROR | Metadata:
+2025-05-19 18:00:59,734 | ERROR | handler_name    : SoundHandler
+2025-05-19 18:00:59,739 | ERROR | vendor_id       : [0][0][0][0]
+2025-05-19 18:00:59,744 | ERROR | Stream #0:9[0xa](eng): Data: none (tmcd / 0x64636D74)
+2025-05-19 18:00:59,748 | ERROR | Metadata:
+2025-05-19 18:00:59,750 | ERROR | handler_name    : TimeCodeHandler
+2025-05-19 18:00:59,753 | ERROR | timecode        : 10:00:00:00
+2025-05-19 18:00:59,756 | ERROR | [in#1 @ 0x54c5340] Error opening input: No such file or directory
+2025-05-19 18:00:59,759 | ERROR | Error opening input file /home/ishitasinghfaujdar/pmsltask/graphics/lOGO.mov.
+2025-05-19 18:00:59,763 | ERROR | Error opening input files: No such file or directory
+2025-05-19 18:00:59,769 | INFO | ====== PROCESSING /HOME/ISHITASINGHFAUJDAR/PMSLTASK/INPUT/DORI.MP4 ======
+2025-05-19 18:00:59,772 | INFO | Running FFmpeg for /home/ishitasinghfaujdar/pmsltask/input/dori.mp4

@@ -1,0 +1,14 @@
+2025-05-28 22:42:06,710 | INFO | ====== LOAD CONFIG ======
+2025-05-28 22:42:06,713 | INFO | ====== STARTING MANIFEST CREATION ======
+2025-05-28 22:42:06,714 | INFO | Number of ads to cycle: 3
+2025-05-28 22:42:06,715 | INFO | Running FFmpeg segmentation: ffmpeg -y -i /home/ishitasinghfaujdar/pmsltask/ads/coca-cola-commercial.mp4 -c copy -map 0 -f segment -segment_time 10 -reset_timestamps 1 /home/ishitasinghfaujdar/pmsltask/ads/coca-cola-commercial.mp4_seg%03d.ts
+2025-05-28 22:42:06,874 | INFO | Writing manifest: /home/ishitasinghfaujdar/pmsltask/output/Ad 1.m3u8 with 7 segments
+2025-05-28 22:42:06,878 | INFO | Created ad manifest for Ad 1
+2025-05-28 22:42:06,880 | INFO | Running FFmpeg segmentation: ffmpeg -y -i /home/ishitasinghfaujdar/pmsltask/ads/gems.mp4 -c copy -map 0 -f segment -segment_time 10 -reset_timestamps 1 /home/ishitasinghfaujdar/pmsltask/ads/gems.mp4_seg%03d.ts
+2025-05-28 22:42:06,974 | INFO | Writing manifest: /home/ishitasinghfaujdar/pmsltask/output/Ad 2.m3u8 with 7 segments
+2025-05-28 22:42:06,979 | INFO | Created ad manifest for Ad 2
+2025-05-28 22:42:06,982 | INFO | Running FFmpeg segmentation: ffmpeg -y -i /home/ishitasinghfaujdar/pmsltask/ads/fewikwik.mp4 -c copy -map 0 -f segment -segment_time 10 -reset_timestamps 1 /home/ishitasinghfaujdar/pmsltask/ads/fewikwik.mp4_seg%03d.ts
+2025-05-28 22:42:07,055 | INFO | Writing manifest: /home/ishitasinghfaujdar/pmsltask/output/Ad 3.m3u8 with 4 segments
+2025-05-28 22:42:07,060 | INFO | Created ad manifest for Ad 3
+2025-05-28 22:42:07,061 | INFO | Running FFmpeg segmentation: ffmpeg -y -i /home/ishitasinghfaujdar/pmsltask/output/GSH131768_overlay.mp4 -c copy -map 0 -f segment -segment_time 10 -reset_timestamps 1 /home/ishitasinghfaujdar/pmsltask/output/GSH131768_overlay.mp4_seg%03d.ts
+2025-05-28 22:42:17,442 | INFO | Segmenting show 'GSH131768'

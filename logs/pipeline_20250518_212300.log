@@ -1,0 +1,83 @@
+2025-05-18 21:23:00,345 | INFO | ━━━━━━━━━━━━━━━ STARTING PREPROCESSING ━━━━━━━━━━━━━━━
+2025-05-18 21:23:00,347 | INFO | Starting overlay for input/dori.mp4 with graphics/LOGO.mov
+2025-05-18 21:23:01,501 | INFO | [ffmpeg] frame=    0 fps=0.0 q=0.0 size=       0KiB time=N/A bitrate=N/A speed=N/A elapsed=0:00:00.50
+2025-05-18 21:24:01,579 | INFO | [ffmpeg] frame=  827 fps= 14 q=28.0 size=   19200KiB time=00:00:33.00 bitrate=4766.3kbits/s speed=0.545x elapsed=0:01:00.57
+2025-05-18 21:25:01,675 | INFO | [ffmpeg] frame= 1691 fps= 14 q=28.0 size=   39168KiB time=00:01:07.56 bitrate=4749.3kbits/s speed=0.56x elapsed=0:02:00.67
+2025-05-18 21:26:01,754 | INFO | [ffmpeg] frame= 2601 fps= 14 q=28.0 size=   80128KiB time=00:01:43.96 bitrate=6314.1kbits/s speed=0.575x elapsed=0:03:00.75
+2025-05-18 21:27:01,830 | INFO | [ffmpeg] frame= 3544 fps= 15 q=28.0 size=  111104KiB time=00:02:21.68 bitrate=6424.1kbits/s speed=0.588x elapsed=0:04:00.82
+2025-05-18 21:28:01,908 | INFO | [ffmpeg] frame= 4516 fps= 15 q=28.0 size=  138496KiB time=00:03:00.56 bitrate=6283.6kbits/s speed= 0.6x elapsed=0:05:00.90
+2025-05-18 21:29:01,959 | INFO | [ffmpeg] frame= 5499 fps= 15 q=28.0 size=  158720KiB time=00:03:39.88 bitrate=5913.4kbits/s speed=0.609x elapsed=0:06:00.95
+2025-05-18 21:30:02,063 | INFO | [ffmpeg] frame= 6443 fps= 15 q=28.0 size=  181760KiB time=00:04:17.64 bitrate=5779.3kbits/s speed=0.612x elapsed=0:07:01.06
+2025-05-18 21:31:02,130 | INFO | [ffmpeg] frame= 7390 fps= 15 q=28.0 size=  205568KiB time=00:04:55.52 bitrate=5698.5kbits/s speed=0.614x elapsed=0:08:01.12
+2025-05-18 21:32:02,238 | INFO | [ffmpeg] frame= 8276 fps= 15 q=28.0 size=  228608KiB time=00:05:30.96 bitrate=5658.6kbits/s speed=0.611x elapsed=0:09:01.23
+2025-05-18 21:33:02,341 | INFO | [ffmpeg] frame= 9159 fps= 15 q=28.0 size=  253696KiB time=00:06:06.28 bitrate=5674.0kbits/s speed=0.609x elapsed=0:10:01.33
+2025-05-18 21:34:02,413 | INFO | [ffmpeg] frame=10132 fps= 15 q=28.0 size=  278528KiB time=00:06:45.20 bitrate=5631.1kbits/s speed=0.613x elapsed=0:11:01.41
+2025-05-18 21:35:02,509 | INFO | [ffmpeg] frame=11076 fps= 15 q=28.0 size=  305152KiB time=00:07:22.96 bitrate=5643.4kbits/s speed=0.614x elapsed=0:12:01.50
+2025-05-18 21:36:02,591 | INFO | [ffmpeg] frame=11963 fps= 15 q=28.0 size=  329216KiB time=00:07:58.44 bitrate=5636.9kbits/s speed=0.612x elapsed=0:13:01.58
+2025-05-18 21:37:02,651 | INFO | [ffmpeg] frame=12968 fps= 15 q=28.0 size=  349952KiB time=00:08:38.64 bitrate=5527.5kbits/s speed=0.616x elapsed=0:14:01.64
+2025-05-18 21:38:02,740 | INFO | [ffmpeg] frame=13957 fps= 15 q=28.0 size=  372480KiB time=00:09:18.20 bitrate=5466.4kbits/s speed=0.619x elapsed=0:15:01.72
+2025-05-18 21:39:02,810 | INFO | [ffmpeg] frame=14996 fps= 16 q=28.0 size=  392960KiB time=00:09:59.76 bitrate=5367.4kbits/s speed=0.624x elapsed=0:16:01.80
+2025-05-18 21:40:02,880 | INFO | [ffmpeg] frame=15900 fps= 16 q=28.0 size=  417024KiB time=00:10:35.92 bitrate=5372.2kbits/s speed=0.622x elapsed=0:17:01.87
+2025-05-18 21:41:02,958 | INFO | [ffmpeg] frame=16842 fps= 16 q=28.0 size=  440064KiB time=00:11:13.60 bitrate=5351.8kbits/s speed=0.623x elapsed=0:18:01.95
+2025-05-18 21:42:03,051 | INFO | [ffmpeg] frame=17805 fps= 16 q=28.0 size=  463360KiB time=00:11:52.12 bitrate=5330.3kbits/s speed=0.624x elapsed=0:19:02.04
+2025-05-18 21:43:03,124 | INFO | [ffmpeg] frame=18794 fps= 16 q=28.0 size=  485376KiB time=00:12:31.68 bitrate=5289.8kbits/s speed=0.625x elapsed=0:20:02.12
+2025-05-18 21:44:03,222 | INFO | [ffmpeg] frame=19771 fps= 16 q=28.0 size=  509696KiB time=00:13:10.76 bitrate=5280.3kbits/s speed=0.626x elapsed=0:21:02.22
+2025-05-18 21:45:03,352 | INFO | [ffmpeg] frame=20809 fps= 16 q=28.0 size=  529920KiB time=00:13:52.28 bitrate=5215.9kbits/s speed=0.629x elapsed=0:22:02.34
+2025-05-18 21:46:03,411 | INFO | [ffmpeg] frame=21813 fps= 16 q=28.0 size=  548352KiB time=00:14:32.44 bitrate=5148.9kbits/s speed=0.631x elapsed=0:23:02.40
+2025-05-18 21:47:03,532 | INFO | [ffmpeg] frame=22772 fps= 16 q=28.0 size=  574464KiB time=00:15:10.80 bitrate=5166.9kbits/s speed=0.631x elapsed=0:24:02.53
+2025-05-18 21:48:03,573 | INFO | [ffmpeg] frame=23770 fps= 16 q=28.0 size=  598528KiB time=00:15:50.72 bitrate=5157.3kbits/s speed=0.633x elapsed=0:25:02.57
+2025-05-18 21:49:03,626 | INFO | [ffmpeg] frame=24662 fps= 16 q=28.0 size=  623104KiB time=00:16:26.40 bitrate=5174.8kbits/s speed=0.631x elapsed=0:26:02.62
+2025-05-18 21:50:03,709 | INFO | [ffmpeg] frame=25604 fps= 16 q=28.0 size=  646400KiB time=00:17:04.08 bitrate=5170.8kbits/s speed=0.631x elapsed=0:27:02.70
+2025-05-18 21:51:03,806 | INFO | [ffmpeg] frame=26625 fps= 16 q=28.0 size=  667648KiB time=00:17:44.92 bitrate=5135.9kbits/s speed=0.633x elapsed=0:28:02.80
+2025-05-18 21:52:03,869 | INFO | [ffmpeg] frame=27511 fps= 16 q=28.0 size=  691200KiB time=00:18:20.36 bitrate=5145.9kbits/s speed=0.631x elapsed=0:29:02.86
+2025-05-18 21:53:03,959 | INFO | [ffmpeg] frame=28459 fps= 16 q=28.0 size=  714240KiB time=00:18:58.28 bitrate=5140.3kbits/s speed=0.631x elapsed=0:30:02.95
+2025-05-18 21:54:04,028 | INFO | [ffmpeg] frame=29417 fps= 16 q=28.0 size=  737792KiB time=00:19:36.60 bitrate=5136.8kbits/s speed=0.632x elapsed=0:31:03.02
+2025-05-18 21:55:04,118 | INFO | [ffmpeg] frame=30373 fps= 16 q=28.0 size=  761088KiB time=00:20:14.84 bitrate=5132.2kbits/s speed=0.632x elapsed=0:32:03.11
+2025-05-18 21:56:04,178 | INFO | [ffmpeg] frame=31301 fps= 16 q=28.0 size=  785152KiB time=00:20:51.96 bitrate=5137.5kbits/s speed=0.631x elapsed=0:33:03.17
+2025-05-18 21:57:04,227 | INFO | [ffmpeg] frame=32272 fps= 16 q=28.0 size=  805376KiB time=00:21:30.80 bitrate=5111.3kbits/s speed=0.632x elapsed=0:34:03.22
+2025-05-18 21:58:04,280 | INFO | [ffmpeg] frame=33156 fps= 16 q=28.0 size=  834816KiB time=00:22:06.16 bitrate=5156.9kbits/s speed=0.631x elapsed=0:35:03.27
+2025-05-18 21:59:04,375 | INFO | [ffmpeg] frame=33960 fps= 16 q=28.0 size=  869632KiB time=00:22:38.32 bitrate=5244.7kbits/s speed=0.628x elapsed=0:36:03.37
+2025-05-18 21:59:35,833 | INFO | ✅ Completed overlay: dori_with_overlay.mp4
+2025-05-18 21:59:35,838 | INFO | Starting overlay for input/balikavadhu.mp4 with graphics/LOGO.mov
+2025-05-18 21:59:36,952 | INFO | [ffmpeg] frame=    0 fps=0.0 q=0.0 size=       0KiB time=N/A bitrate=N/A speed=N/A elapsed=0:00:00.50
+2025-05-18 22:00:37,085 | INFO | [ffmpeg] frame=  841 fps= 14 q=28.0 size=   24320KiB time=00:00:33.56 bitrate=5936.5kbits/s speed=0.553x elapsed=0:01:00.63
+2025-05-18 22:01:37,180 | INFO | [ffmpeg] frame= 1978 fps= 16 q=28.0 size=   56832KiB time=00:01:19.04 bitrate=5890.3kbits/s speed=0.655x elapsed=0:02:00.72
+2025-05-18 22:02:37,260 | INFO | [ffmpeg] frame= 2872 fps= 16 q=28.0 size=   91648KiB time=00:01:54.80 bitrate=6539.9kbits/s speed=0.635x elapsed=0:03:00.80
+2025-05-18 22:03:37,330 | INFO | [ffmpeg] frame= 3765 fps= 16 q=28.0 size=  121344KiB time=00:02:30.52 bitrate=6604.1kbits/s speed=0.625x elapsed=0:04:00.87
+2025-05-18 22:04:37,423 | INFO | [ffmpeg] frame= 4717 fps= 16 q=28.0 size=  149504KiB time=00:03:08.60 bitrate=6493.8kbits/s speed=0.627x elapsed=0:05:00.97
+2025-05-18 22:05:37,531 | INFO | [ffmpeg] frame= 5680 fps= 16 q=28.0 size=  178176KiB time=00:03:47.12 bitrate=6426.6kbits/s speed=0.629x elapsed=0:06:01.07
+2025-05-18 22:06:37,597 | INFO | [ffmpeg] frame= 6704 fps= 16 q=28.0 size=  212480KiB time=00:04:28.08 bitrate=6493.0kbits/s speed=0.637x elapsed=0:07:01.14
+2025-05-18 22:07:37,679 | INFO | [ffmpeg] frame= 7631 fps= 16 q=28.0 size=  241408KiB time=00:05:05.16 bitrate=6480.6kbits/s speed=0.634x elapsed=0:08:01.22
+2025-05-18 22:08:37,758 | INFO | [ffmpeg] frame= 8522 fps= 16 q=28.0 size=  276992KiB time=00:05:40.80 bitrate=6658.2kbits/s speed=0.63x elapsed=0:09:01.30
+2025-05-18 22:09:37,821 | INFO | [ffmpeg] frame= 9474 fps= 16 q=28.0 size=  306944KiB time=00:06:18.88 bitrate=6636.6kbits/s speed=0.63x elapsed=0:10:01.36
+2025-05-18 22:10:37,893 | INFO | [ffmpeg] frame=10484 fps= 16 q=28.0 size=  337152KiB time=00:06:59.28 bitrate=6587.4kbits/s speed=0.634x elapsed=0:11:01.44
+2025-05-18 22:11:37,965 | INFO | [ffmpeg] frame=11472 fps= 16 q=28.0 size=  365568KiB time=00:07:38.80 bitrate=6527.3kbits/s speed=0.636x elapsed=0:12:01.51
+2025-05-18 22:12:38,055 | INFO | [ffmpeg] frame=12413 fps= 16 q=28.0 size=  394496KiB time=00:08:16.44 bitrate=6509.8kbits/s speed=0.635x elapsed=0:13:01.60
+2025-05-18 22:13:38,129 | INFO | [ffmpeg] frame=13383 fps= 16 q=28.0 size=  423680KiB time=00:08:55.24 bitrate=6484.5kbits/s speed=0.636x elapsed=0:14:01.67
+2025-05-18 22:14:38,203 | INFO | [ffmpeg] frame=14244 fps= 16 q=28.0 size=  479232KiB time=00:09:29.68 bitrate=6891.4kbits/s speed=0.632x elapsed=0:15:01.75
+2025-05-18 22:15:38,293 | INFO | [ffmpeg] frame=15221 fps= 16 q=28.0 size=  511744KiB time=00:10:08.76 bitrate=6886.5kbits/s speed=0.633x elapsed=0:16:01.84
+2025-05-18 22:16:38,360 | INFO | [ffmpeg] frame=16158 fps= 16 q=28.0 size=  543232KiB time=00:10:46.24 bitrate=6886.2kbits/s speed=0.632x elapsed=0:17:01.90
+2025-05-18 22:17:38,431 | INFO | [ffmpeg] frame=17079 fps= 16 q=28.0 size=  578816KiB time=00:11:23.08 bitrate=6941.6kbits/s speed=0.631x elapsed=0:18:01.97
+2025-05-18 22:18:38,536 | INFO | [ffmpeg] frame=17895 fps= 16 q=28.0 size=  636672KiB time=00:11:55.72 bitrate=7287.2kbits/s speed=0.627x elapsed=0:19:02.08
+2025-05-18 22:19:38,606 | INFO | [ffmpeg] frame=18871 fps= 16 q=28.0 size=  675072KiB time=00:12:34.76 bitrate=7327.1kbits/s speed=0.628x elapsed=0:20:02.15
+2025-05-18 22:20:38,701 | INFO | [ffmpeg] frame=19946 fps= 16 q=28.0 size=  708608KiB time=00:13:17.76 bitrate=7276.5kbits/s speed=0.632x elapsed=0:21:02.24
+2025-05-18 22:21:38,765 | INFO | [ffmpeg] frame=20990 fps= 16 q=28.0 size=  739584KiB time=00:13:59.52 bitrate=7216.8kbits/s speed=0.635x elapsed=0:22:02.31
+2025-05-18 22:22:38,833 | INFO | [ffmpeg] frame=21974 fps= 16 q=28.0 size=  781056KiB time=00:14:38.88 bitrate=7280.2kbits/s speed=0.636x elapsed=0:23:02.38
+2025-05-18 22:23:38,896 | INFO | [ffmpeg] frame=22884 fps= 16 q=28.0 size=  825856KiB time=00:15:15.28 bitrate=7391.6kbits/s speed=0.635x elapsed=0:24:02.44
+2025-05-18 22:24:38,989 | INFO | [ffmpeg] frame=23820 fps= 16 q=25.0 size=  867328KiB time=00:15:52.72 bitrate=7457.8kbits/s speed=0.634x elapsed=0:25:02.52
+2025-05-18 22:25:39,083 | INFO | [ffmpeg] frame=24751 fps= 16 q=28.0 size=  923136KiB time=00:16:29.96 bitrate=7639.0kbits/s speed=0.634x elapsed=0:26:02.63
+2025-05-18 22:26:39,162 | INFO | [ffmpeg] frame=25700 fps= 16 q=28.0 size=  967936KiB time=00:17:07.92 bitrate=7714.0kbits/s speed=0.633x elapsed=0:27:02.71
+2025-05-18 22:27:39,251 | INFO | [ffmpeg] frame=26652 fps= 16 q=28.0 size= 1017088KiB time=00:17:46.00 bitrate=7816.1kbits/s speed=0.633x elapsed=0:28:02.79
+2025-05-18 22:28:39,318 | INFO | [ffmpeg] frame=27574 fps= 16 q=28.0 size= 1061376KiB time=00:18:22.88 bitrate=7883.7kbits/s speed=0.633x elapsed=0:29:02.86
+2025-05-18 22:29:39,438 | INFO | [ffmpeg] frame=28562 fps= 16 q=28.0 size= 1092864KiB time=00:19:02.40 bitrate=7836.8kbits/s speed=0.634x elapsed=0:30:02.98
+2025-05-18 22:30:39,528 | INFO | [ffmpeg] frame=29568 fps= 16 q=28.0 size= 1134336KiB time=00:19:42.64 bitrate=7857.4kbits/s speed=0.635x elapsed=0:31:03.07
+2025-05-18 22:31:39,601 | INFO | [ffmpeg] frame=30565 fps= 16 q=28.0 size= 1167872KiB time=00:20:22.52 bitrate=7825.8kbits/s speed=0.636x elapsed=0:32:03.14
+2025-05-18 22:32:39,657 | INFO | [ffmpeg] frame=31691 fps= 16 q=28.0 size= 1195776KiB time=00:21:07.56 bitrate=7728.1kbits/s speed=0.639x elapsed=0:33:03.20
+2025-05-18 22:33:38,043 | INFO | ✅ Completed overlay: balikavadhu_with_overlay.mp4
+2025-05-18 22:33:38,047 | INFO | Starting overlay for input/theoffice.mp4 with graphics/nextshow.mov
+2025-05-18 22:33:38,066 | ERROR | ❌ FFmpeg exited with code 234
+2025-05-18 22:33:38,074 | INFO | ━━━━━━━━━━━━━━━ ✅ SUMMARY ━━━━━━━━━━━━━━━
+2025-05-18 22:33:38,078 | INFO | 🟢 Successes: 2
+2025-05-18 22:33:38,082 | INFO | 🟡 Warnings: 0
+2025-05-18 22:33:38,087 | INFO | 🔴 Errors: 1
+2025-05-18 22:33:38,091 | WARNING | ⚠️ Some tasks failed. Check above for details.

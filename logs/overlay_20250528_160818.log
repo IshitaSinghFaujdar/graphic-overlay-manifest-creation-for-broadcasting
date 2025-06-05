@@ -1,0 +1,66 @@
+2025-05-28 16:08:18,498 | INFO | ====== OVERLAY PIPELINE STARTED ======
+2025-05-28 16:08:18,500 | INFO | ====== PROCESSING INPUT/BALIKAVADHU.MP4 ======
+2025-05-28 16:08:18,501 | INFO | Running FFmpeg for input/balikavadhu.mp4
+2025-05-28 16:08:18,522 | ERROR | ❌ FFmpeg failed with return code 254
+2025-05-28 16:08:18,526 | ERROR | ffmpeg version N-119578-geb6dc952cb Copyright (c) 2000-2025 the FFmpeg developers
+2025-05-28 16:08:18,528 | ERROR | built with gcc 11 (GCC)
+2025-05-28 16:08:18,530 | ERROR | configuration: --enable-gpl --enable-nonfree --enable-libx264 --enable-libx265 --enable-libvpx --enable-libfreetype --enable-openssl --enable-libass --enable-libmp3lame --enable-libopus --enable-libvorbis
+2025-05-28 16:08:18,531 | ERROR | libavutil      60.  2.100 / 60.  2.100
+2025-05-28 16:08:18,533 | ERROR | libavcodec     62.  3.101 / 62.  3.101
+2025-05-28 16:08:18,535 | ERROR | libavformat    62.  0.102 / 62.  0.102
+2025-05-28 16:08:18,536 | ERROR | libavdevice    62.  0.100 / 62.  0.100
+2025-05-28 16:08:18,538 | ERROR | libavfilter    11.  0.100 / 11.  0.100
+2025-05-28 16:08:18,540 | ERROR | libswscale      9.  0.100 /  9.  0.100
+2025-05-28 16:08:18,542 | ERROR | libswresample   6.  0.100 /  6.  0.100
+2025-05-28 16:08:18,543 | ERROR | [in#0 @ 0x3df0980] Error opening input: No such file or directory
+2025-05-28 16:08:18,545 | ERROR | Error opening input file input/balikavadhu.mp4.
+2025-05-28 16:08:18,547 | ERROR | Error opening input files: No such file or directory
+2025-05-28 16:08:18,549 | INFO | ====== PROCESSING INPUT/DORI.MP4 ======
+2025-05-28 16:08:18,551 | INFO | Running FFmpeg for input/dori.mp4
+2025-05-28 16:08:18,568 | ERROR | ❌ FFmpeg failed with return code 254
+2025-05-28 16:08:18,571 | ERROR | ffmpeg version N-119578-geb6dc952cb Copyright (c) 2000-2025 the FFmpeg developers
+2025-05-28 16:08:18,573 | ERROR | built with gcc 11 (GCC)
+2025-05-28 16:08:18,575 | ERROR | configuration: --enable-gpl --enable-nonfree --enable-libx264 --enable-libx265 --enable-libvpx --enable-libfreetype --enable-openssl --enable-libass --enable-libmp3lame --enable-libopus --enable-libvorbis
+2025-05-28 16:08:18,577 | ERROR | libavutil      60.  2.100 / 60.  2.100
+2025-05-28 16:08:18,579 | ERROR | libavcodec     62.  3.101 / 62.  3.101
+2025-05-28 16:08:18,581 | ERROR | libavformat    62.  0.102 / 62.  0.102
+2025-05-28 16:08:18,583 | ERROR | libavdevice    62.  0.100 / 62.  0.100
+2025-05-28 16:08:18,585 | ERROR | libavfilter    11.  0.100 / 11.  0.100
+2025-05-28 16:08:18,587 | ERROR | libswscale      9.  0.100 /  9.  0.100
+2025-05-28 16:08:18,590 | ERROR | libswresample   6.  0.100 /  6.  0.100
+2025-05-28 16:08:18,593 | ERROR | [in#0 @ 0x4104540] Error opening input: No such file or directory
+2025-05-28 16:08:18,595 | ERROR | Error opening input file input/dori.mp4.
+2025-05-28 16:08:18,598 | ERROR | Error opening input files: No such file or directory
+2025-05-28 16:08:18,602 | INFO | ====== PROCESSING /HOME/ISHITASINGHFAUJDAR/PMSLTASK/INPUT/SHOWS/TEST_OUTPUT.MP4 ======
+2025-05-28 16:08:18,604 | INFO | Running FFmpeg for /home/ishitasinghfaujdar/pmsltask/input/shows/test_output.mp4
+2025-05-28 16:08:18,654 | ERROR | ❌ FFmpeg failed with return code 254
+2025-05-28 16:08:18,658 | ERROR | ffmpeg version N-119578-geb6dc952cb Copyright (c) 2000-2025 the FFmpeg developers
+2025-05-28 16:08:18,660 | ERROR | built with gcc 11 (GCC)
+2025-05-28 16:08:18,662 | ERROR | configuration: --enable-gpl --enable-nonfree --enable-libx264 --enable-libx265 --enable-libvpx --enable-libfreetype --enable-openssl --enable-libass --enable-libmp3lame --enable-libopus --enable-libvorbis
+2025-05-28 16:08:18,664 | ERROR | libavutil      60.  2.100 / 60.  2.100
+2025-05-28 16:08:18,665 | ERROR | libavcodec     62.  3.101 / 62.  3.101
+2025-05-28 16:08:18,667 | ERROR | libavformat    62.  0.102 / 62.  0.102
+2025-05-28 16:08:18,668 | ERROR | libavdevice    62.  0.100 / 62.  0.100
+2025-05-28 16:08:18,670 | ERROR | libavfilter    11.  0.100 / 11.  0.100
+2025-05-28 16:08:18,672 | ERROR | libswscale      9.  0.100 /  9.  0.100
+2025-05-28 16:08:18,674 | ERROR | libswresample   6.  0.100 /  6.  0.100
+2025-05-28 16:08:18,676 | ERROR | Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home/ishitasinghfaujdar/pmsltask/input/shows/test_output.mp4':
+2025-05-28 16:08:18,678 | ERROR | Metadata:
+2025-05-28 16:08:18,680 | ERROR | major_brand     : isom
+2025-05-28 16:08:18,681 | ERROR | minor_version   : 512
+2025-05-28 16:08:18,682 | ERROR | compatible_brands: isomiso2avc1mp41
+2025-05-28 16:08:18,683 | ERROR | encoder         : Lavf62.0.102
+2025-05-28 16:08:18,685 | ERROR | Duration: 00:21:11.81, start: 0.000000, bitrate: 4539 kb/s
+2025-05-28 16:08:18,686 | ERROR | Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1920x1080 [SAR 1:1 DAR 16:9], 4365 kb/s, 25 fps, 25 tbr, 12800 tbn (default)
+2025-05-28 16:08:18,690 | ERROR | Metadata:
+2025-05-28 16:08:18,691 | ERROR | handler_name    : VideoHandler
+2025-05-28 16:08:18,693 | ERROR | vendor_id       : [0][0][0][0]
+2025-05-28 16:08:18,695 | ERROR | encoder         : Lavc62.3.101 libx264
+2025-05-28 16:08:18,697 | ERROR | Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, mono, fltp, 169 kb/s (default)
+2025-05-28 16:08:18,699 | ERROR | Metadata:
+2025-05-28 16:08:18,700 | ERROR | handler_name    : SoundHandler
+2025-05-28 16:08:18,702 | ERROR | vendor_id       : [0][0][0][0]
+2025-05-28 16:08:18,705 | ERROR | [in#1 @ 0x3d2da40] Error opening input: No such file or directory
+2025-05-28 16:08:18,707 | ERROR | Error opening input file graphics/LOGO.mov.
+2025-05-28 16:08:18,708 | ERROR | Error opening input files: No such file or directory
+2025-05-28 16:08:18,711 | INFO | ====== PIPELINE COMPLETE ======

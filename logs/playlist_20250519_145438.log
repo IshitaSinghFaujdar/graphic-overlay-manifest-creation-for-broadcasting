@@ -1,0 +1,57 @@
+2025-05-19 14:54:38,149 | INFO | 🎬 Starting playlist generation for 4 shows
+2025-05-19 14:54:38,282 | INFO | Added segment: /home/ishitasinghfaujdar/pmsltask/input/shows/balikavadhu_with_overlay.mp4 [Part 1] 0.0s - 420.0s
+2025-05-19 14:54:38,308 | INFO | Inserted ad placeholder after Part 1
+2025-05-19 14:54:38,309 | INFO | Added segment: /home/ishitasinghfaujdar/pmsltask/input/shows/balikavadhu_with_overlay.mp4 [Part 2] 420.0s - 840.0s
+2025-05-19 14:54:38,335 | INFO | Inserted ad placeholder after Part 2
+2025-05-19 14:54:38,335 | INFO | Added segment: /home/ishitasinghfaujdar/pmsltask/input/shows/balikavadhu_with_overlay.mp4 [Part 3] 840.0s - 1260.0s
+2025-05-19 14:54:38,362 | INFO | Inserted ad placeholder after Part 3
+2025-05-19 14:54:38,363 | INFO | Added segment: /home/ishitasinghfaujdar/pmsltask/input/shows/balikavadhu_with_overlay.mp4 [Part 4] 1260.0s - 1307.0s
+2025-05-19 14:54:38,497 | INFO | Added segment: /home/ishitasinghfaujdar/pmsltask/input/shows/dori_with_overlay_2.mp4 [Part 1] 0.0s - 420.0s
+2025-05-19 14:54:38,523 | INFO | Inserted ad placeholder after Part 1
+2025-05-19 14:54:38,524 | INFO | Added segment: /home/ishitasinghfaujdar/pmsltask/input/shows/dori_with_overlay_2.mp4 [Part 2] 420.0s - 840.0s
+2025-05-19 14:54:38,552 | INFO | Inserted ad placeholder after Part 2
+2025-05-19 14:54:38,553 | INFO | Added segment: /home/ishitasinghfaujdar/pmsltask/input/shows/dori_with_overlay_2.mp4 [Part 3] 840.0s - 1260.0s
+2025-05-19 14:54:38,586 | INFO | Inserted ad placeholder after Part 3
+2025-05-19 14:54:38,587 | INFO | Added segment: /home/ishitasinghfaujdar/pmsltask/input/shows/dori_with_overlay_2.mp4 [Part 4] 1260.0s - 1383.0s
+2025-05-19 14:54:38,641 | INFO | Added segment: /home/ishitasinghfaujdar/pmsltask/input/shows/test_output.mp4 [Part 1] 0.0s - 420.0s
+2025-05-19 14:54:38,672 | INFO | Inserted ad placeholder after Part 1
+2025-05-19 14:54:38,673 | INFO | Added segment: /home/ishitasinghfaujdar/pmsltask/input/shows/test_output.mp4 [Part 2] 420.0s - 840.0s
+2025-05-19 14:54:38,704 | INFO | Inserted ad placeholder after Part 2
+2025-05-19 14:54:38,704 | INFO | Added segment: /home/ishitasinghfaujdar/pmsltask/input/shows/test_output.mp4 [Part 3] 840.0s - 1260.0s
+2025-05-19 14:54:38,734 | INFO | Inserted ad placeholder after Part 3
+2025-05-19 14:54:38,735 | INFO | Added segment: /home/ishitasinghfaujdar/pmsltask/input/shows/test_output.mp4 [Part 4] 1260.0s - 1271.8s
+2025-05-19 14:54:38,810 | INFO | Added segment: /home/ishitasinghfaujdar/pmsltask/input/shows/dori_with_overlay.mp4 [Part 1] 0.0s - 420.0s
+2025-05-19 14:54:38,838 | INFO | Inserted ad placeholder after Part 1
+2025-05-19 14:54:38,839 | INFO | Added segment: /home/ishitasinghfaujdar/pmsltask/input/shows/dori_with_overlay.mp4 [Part 2] 420.0s - 840.0s
+2025-05-19 14:54:38,869 | INFO | Inserted ad placeholder after Part 2
+2025-05-19 14:54:38,870 | INFO | Added segment: /home/ishitasinghfaujdar/pmsltask/input/shows/dori_with_overlay.mp4 [Part 3] 840.0s - 1260.0s
+2025-05-19 14:54:38,900 | INFO | Inserted ad placeholder after Part 3
+2025-05-19 14:54:38,901 | INFO | Added segment: /home/ishitasinghfaujdar/pmsltask/input/shows/dori_with_overlay.mp4 [Part 4] 1260.0s - 1383.0s
+2025-05-19 14:54:38,901 | INFO | Processed ~420 seconds of content so far.
+2025-05-19 14:54:38,901 | INFO | Processed ~540 seconds of content so far.
+2025-05-19 14:54:38,901 | INFO | Processed ~960 seconds of content so far.
+2025-05-19 14:54:38,901 | INFO | Processed ~1080 seconds of content so far.
+2025-05-19 14:54:38,902 | INFO | Processed ~1500 seconds of content so far.
+2025-05-19 14:54:38,902 | INFO | Processed ~1620 seconds of content so far.
+2025-05-19 14:54:38,902 | INFO | Processed ~2087 seconds of content so far.
+2025-05-19 14:54:38,902 | INFO | Processed ~2207 seconds of content so far.
+2025-05-19 14:54:38,902 | INFO | Processed ~2627 seconds of content so far.
+2025-05-19 14:54:38,902 | INFO | Processed ~2747 seconds of content so far.
+2025-05-19 14:54:38,902 | INFO | Processed ~3167 seconds of content so far.
+2025-05-19 14:54:38,903 | INFO | Processed ~3287 seconds of content so far.
+2025-05-19 14:54:38,903 | INFO | Processed ~3410 seconds of content so far.
+2025-05-19 14:54:38,903 | INFO | Processed ~3830 seconds of content so far.
+2025-05-19 14:54:38,903 | INFO | Processed ~3950 seconds of content so far.
+2025-05-19 14:54:38,903 | INFO | Processed ~4370 seconds of content so far.
+2025-05-19 14:54:38,903 | INFO | Processed ~4490 seconds of content so far.
+2025-05-19 14:54:38,904 | INFO | Processed ~4910 seconds of content so far.
+2025-05-19 14:54:38,904 | INFO | Processed ~5030 seconds of content so far.
+2025-05-19 14:54:38,904 | INFO | Processed ~5041 seconds of content so far.
+2025-05-19 14:54:38,904 | INFO | Processed ~5461 seconds of content so far.
+2025-05-19 14:54:38,904 | INFO | Processed ~5581 seconds of content so far.
+2025-05-19 14:54:38,904 | INFO | Processed ~6001 seconds of content so far.
+2025-05-19 14:54:38,904 | INFO | Processed ~6121 seconds of content so far.
+2025-05-19 14:54:38,905 | INFO | Processed ~6541 seconds of content so far.
+2025-05-19 14:54:38,905 | INFO | Processed ~6661 seconds of content so far.
+2025-05-19 14:54:38,905 | INFO | Processed ~6784 seconds of content so far.
+2025-05-19 14:54:38,906 | INFO | ✅ Playlist saved to: evening_show.m3u8

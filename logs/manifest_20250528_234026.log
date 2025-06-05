@@ -1,0 +1,30 @@
+2025-05-28 23:40:26,216 | INFO | ====== LOAD CONFIG ======
+2025-05-28 23:40:26,218 | INFO | ====== STARTING MANIFEST CREATION ======
+2025-05-28 23:40:26,219 | INFO | Number of ads to cycle: 3
+2025-05-28 23:40:26,221 | INFO | Running FFmpeg segmentation: ffmpeg -y -i /home/ishitasinghfaujdar/pmsltask/ads/coca-cola-commercial.mp4 -c copy -map 0 -f segment -segment_time 10 -reset_timestamps 1 /home/ishitasinghfaujdar/pmsltask/ads/coca-cola-commercial.mp4_seg%03d.ts
+2025-05-28 23:40:26,359 | INFO | Writing manifest: /home/ishitasinghfaujdar/pmsltask/output/Ad 1.m3u8 with 7 segments
+2025-05-28 23:40:26,362 | INFO | Created ad manifest for Ad 1
+2025-05-28 23:40:26,364 | INFO | Running FFmpeg segmentation: ffmpeg -y -i /home/ishitasinghfaujdar/pmsltask/ads/gems.mp4 -c copy -map 0 -f segment -segment_time 10 -reset_timestamps 1 /home/ishitasinghfaujdar/pmsltask/ads/gems.mp4_seg%03d.ts
+2025-05-28 23:40:26,476 | INFO | Writing manifest: /home/ishitasinghfaujdar/pmsltask/output/Ad 2.m3u8 with 7 segments
+2025-05-28 23:40:26,479 | INFO | Created ad manifest for Ad 2
+2025-05-28 23:40:26,481 | INFO | Running FFmpeg segmentation: ffmpeg -y -i /home/ishitasinghfaujdar/pmsltask/ads/fewikwik.mp4 -c copy -map 0 -f segment -segment_time 10 -reset_timestamps 1 /home/ishitasinghfaujdar/pmsltask/ads/fewikwik.mp4_seg%03d.ts
+2025-05-28 23:40:26,568 | INFO | Writing manifest: /home/ishitasinghfaujdar/pmsltask/output/Ad 3.m3u8 with 4 segments
+2025-05-28 23:40:26,571 | INFO | Created ad manifest for Ad 3
+2025-05-28 23:40:26,573 | INFO | Running FFmpeg segmentation: ffmpeg -y -i /home/ishitasinghfaujdar/pmsltask/output/GSH131768_overlay.mp4 -c copy -map 0 -f segment -segment_time 10 -reset_timestamps 1 /home/ishitasinghfaujdar/pmsltask/output/GSH131768_overlay.mp4_seg%03d.ts
+2025-05-28 23:40:35,801 | INFO | Segmenting show 'GSH131768'
+2025-05-28 23:40:35,810 | INFO | Mid-show ad cue points after segments: []
+2025-05-28 23:40:35,817 | INFO | Writing manifest: /home/ishitasinghfaujdar/pmsltask/output/GSH131768.m3u8 with 1 segments
+2025-05-28 23:40:35,824 | INFO | Created show manifest for GSH131768
+2025-05-28 23:40:35,828 | INFO | Running FFmpeg segmentation: ffmpeg -y -i /home/ishitasinghfaujdar/pmsltask/output/GSH132059_overlay.mp4 -c copy -map 0 -f segment -segment_time 10 -reset_timestamps 1 /home/ishitasinghfaujdar/pmsltask/output/GSH132059_overlay.mp4_seg%03d.ts
+2025-05-28 23:40:46,372 | INFO | Segmenting show 'GSH132059'
+2025-05-28 23:40:46,375 | INFO | Mid-show ad cue points after segments: []
+2025-05-28 23:40:46,377 | INFO | Writing manifest: /home/ishitasinghfaujdar/pmsltask/output/GSH132059.m3u8 with 1 segments
+2025-05-28 23:40:46,380 | INFO | Created show manifest for GSH132059
+2025-05-28 23:40:46,382 | INFO | Running FFmpeg segmentation: ffmpeg -y -i /home/ishitasinghfaujdar/pmsltask/output/PRG578571_test_overlay.mp4 -c copy -map 0 -f segment -segment_time 10 -reset_timestamps 1 /home/ishitasinghfaujdar/pmsltask/output/PRG578571_test_overlay.mp4_seg%03d.ts
+2025-05-28 23:40:56,894 | INFO | Segmenting show 'PRG578571'
+2025-05-28 23:40:56,899 | INFO | Mid-show ad cue points after segments: []
+2025-05-28 23:40:56,903 | INFO | Writing manifest: /home/ishitasinghfaujdar/pmsltask/output/PRG578571.m3u8 with 1 segments
+2025-05-28 23:40:56,907 | INFO | Created show manifest for PRG578571
+2025-05-28 23:40:56,911 | INFO | Inserting final ad 'Ad 1' at end of master playlist
+2025-05-28 23:40:56,915 | INFO | Writing master manifest: /home/ishitasinghfaujdar/pmsltask/output/master_playlist.m3u8 with 10 segments
+2025-05-28 23:40:56,922 | INFO | ====== MANIFEST CREATION COMPLETE ======

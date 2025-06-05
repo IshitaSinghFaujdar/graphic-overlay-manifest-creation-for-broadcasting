@@ -1,0 +1,67 @@
+2025-05-19 17:58:27,304 | INFO | ====== OVERLAY PIPELINE STARTED ======
+2025-05-19 17:58:27,309 | INFO | ====== PROCESSING /HOME/ISHITASINGHFAUJDAR/PMSLTASK/INPUT/BALIKAVADHU.MP4 ======
+2025-05-19 17:58:27,311 | INFO | Running FFmpeg for /home/ishitasinghfaujdar/pmsltask/input/balikavadhu.mp4
+2025-05-19 17:58:27,519 | ERROR | ❌ FFmpeg failed: ffmpeg version N-119578-geb6dc952cb Copyright (c) 2000-2025 the FFmpeg developers
+  built with gcc 11 (GCC)
+  configuration: --enable-gpl --enable-nonfree --enable-libx264 --enable-libx265 --enable-libvpx --enable-libfreetype --enable-openssl --enable-libass --enable-libmp3lame --enable-libopus --enable-libvorbis
+  libavutil      60.  2.100 / 60.  2.100
+  libavcodec     62.  3.101 / 62.  3.101
+  libavformat    62.  0.102 / 62.  0.102
+  libavdevice    62.  0.100 / 62.  0.100
+  libavfilter    11.  0.100 / 11.  0.100
+  libswscale      9.  0.100 /  9.  0.100
+  libswresample   6.  0.100 /  6.  0.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home/ishitasinghfaujdar/pmsltask/input/balikavadhu.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : Lavf57.79.100
+  Duration: 00:21:47.01, start: 0.000000, bitrate: 20723 kb/s
+  Stream #0:0[0x1](und): Video: mpeg4 (Simple Profile) (mp4v / 0x7634706D), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], 19895 kb/s, 25 fps, 25 tbr, 12800 tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+      timecode        : 10:00:00:00
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, mono, fltp, 199 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:2[0x3](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, mono, fltp, 199 kb/s
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:3[0x4](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, mono, fltp, 1 kb/s
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:4[0x5](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, mono, fltp, 1 kb/s
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:5[0x6](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, mono, fltp, 1 kb/s
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:6[0x7](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, mono, fltp, 1 kb/s
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:7[0x8](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, mono, fltp, 199 kb/s
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:8[0x9](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, mono, fltp, 199 kb/s
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:9[0xa](eng): Data: none (tmcd / 0x64636D74)
+    Metadata:
+      handler_name    : TimeCodeHandler
+      timecode        : 10:00:00:00
+[in#1 @ 0x3d5c340] Error opening input: No such file or directory
+Error opening input file /home/ishitasinghfaujdar/pmsltask/graphics/lOGO.mov.
+Error opening input files: No such file or directory
+
+2025-05-19 17:58:27,564 | INFO | ====== PROCESSING /HOME/ISHITASINGHFAUJDAR/PMSLTASK/INPUT/DORI.MP4 ======
+2025-05-19 17:58:27,567 | INFO | Running FFmpeg for /home/ishitasinghfaujdar/pmsltask/input/dori.mp4

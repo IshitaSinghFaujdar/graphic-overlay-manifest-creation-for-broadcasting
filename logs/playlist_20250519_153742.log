@@ -1,0 +1,5 @@
+2025-05-19 15:37:42,208 | ERROR | ❌ Unexpected error during playlist generation: [Errno 2] No such file or directory: 'playlist_config.json'
+Traceback (most recent call last):
+  File "/home/ishitasinghfaujdar/pmsltask/playlist.py", line 116, in main
+    with open("playlist_config.json", "r") as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'playlist_config.json'

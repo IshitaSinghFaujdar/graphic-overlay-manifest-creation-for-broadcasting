@@ -1,0 +1,28 @@
+2025-05-28 21:34:21,933 | INFO | ====== MANIFEST GENERATION STARTED ======
+2025-05-28 21:34:21,936 | INFO | ====== STARTING MANIFEST CREATION ======
+2025-05-28 21:34:21,937 | INFO | Number of ads to cycle: 1
+2025-05-28 21:34:21,938 | INFO | Writing manifest: output/ad1.m3u8 with 1 segments
+2025-05-28 21:34:21,940 | INFO | Created ad manifest for ad1
+2025-05-28 21:34:21,941 | INFO | Segmenting show 'show1' duration 1380s
+2025-05-28 21:34:21,943 | INFO | Mid-show ad cue points after segments: [0, 1]
+2025-05-28 21:34:21,944 | INFO | Writing manifest: output/show1.m3u8 with 4 segments
+2025-05-28 21:34:21,946 | INFO | Created show manifest for show1
+2025-05-28 21:34:21,948 | INFO | Inserting ad 'ad1' after segment 1 of show 'show1'
+2025-05-28 21:34:21,950 | INFO | Inserting ad 'ad1' after segment 2 of show 'show1'
+2025-05-28 21:34:21,951 | INFO | Segmenting show 'show2' duration 1440s
+2025-05-28 21:34:21,953 | INFO | Mid-show ad cue points after segments: [0, 1]
+2025-05-28 21:34:21,954 | INFO | Writing manifest: output/show2.m3u8 with 4 segments
+2025-05-28 21:34:21,956 | INFO | Created show manifest for show2
+2025-05-28 21:34:21,957 | INFO | Inserting ad 'ad1' after segment 1 of show 'show2'
+2025-05-28 21:34:21,959 | INFO | Inserting ad 'ad1' after segment 2 of show 'show2'
+2025-05-28 21:34:21,961 | INFO | Segmenting show 'show3' duration 1500s
+2025-05-28 21:34:21,963 | INFO | Mid-show ad cue points after segments: [0, 1]
+2025-05-28 21:34:21,964 | INFO | Writing manifest: output/show3.m3u8 with 4 segments
+2025-05-28 21:34:21,966 | INFO | Created show manifest for show3
+2025-05-28 21:34:21,968 | INFO | Inserting ad 'ad1' after segment 1 of show 'show3'
+2025-05-28 21:34:21,969 | INFO | Inserting ad 'ad1' after segment 2 of show 'show3'
+2025-05-28 21:34:21,971 | INFO | Inserting final ad 'ad1' at end of master playlist
+2025-05-28 21:34:21,973 | INFO | Writing master manifest: output/master_playlist.m3u8 with 19 segments
+2025-05-28 21:34:21,975 | INFO | ====== MANIFEST CREATION COMPLETE ======
+2025-05-28 21:34:21,976 | INFO | Master manifest created at output/master_playlist.m3u8
+2025-05-28 21:34:21,979 | INFO | ====== MANIFEST GENERATION FINISHED ======

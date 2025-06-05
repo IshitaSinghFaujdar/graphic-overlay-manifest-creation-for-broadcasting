@@ -1,0 +1,19 @@
+2025-06-04 18:22:38,350 | INFO | ====== SEGMENTING GSH131768 ======
+2025-06-04 18:22:38,353 | INFO | Running FFmpeg: ffmpeg -y -i /home/ishitasinghfaujdar/pmsltask/output/GSH131768_overlay.mp4 -c copy -map 0 -f segment -segment_time 6 -reset_timestamps 1 output/GSH131768/seg%03d.ts
+2025-06-04 18:22:58,416 | INFO | ====== GETTING SEGMENT DURATIONS FOR GSH131768 ======
+2025-06-04 18:23:17,443 | INFO | ====== SEGMENTING GSH132059 ======
+2025-06-04 18:23:17,448 | INFO | Running FFmpeg: ffmpeg -y -i /home/ishitasinghfaujdar/pmsltask/output/GSH132059_overlay.mp4 -c copy -map 0 -f segment -segment_time 6 -reset_timestamps 1 output/GSH132059/seg%03d.ts
+2025-06-04 18:23:34,415 | INFO | ====== GETTING SEGMENT DURATIONS FOR GSH132059 ======
+2025-06-04 18:23:54,785 | INFO | ====== SEGMENTING PRG578571 ======
+2025-06-04 18:23:54,789 | INFO | Running FFmpeg: ffmpeg -y -i /home/ishitasinghfaujdar/pmsltask/output/PRG578571_test_overlay.mp4 -c copy -map 0 -f segment -segment_time 6 -reset_timestamps 1 output/PRG578571/seg%03d.ts
+2025-06-04 18:24:10,553 | INFO | ====== GETTING SEGMENT DURATIONS FOR PRG578571 ======
+2025-06-04 18:24:28,247 | INFO | ====== SEGMENTING AD1 ======
+2025-06-04 18:24:28,251 | INFO | Running FFmpeg: ffmpeg -y -i /home/ishitasinghfaujdar/pmsltask/ads/coca-cola-commercial.mp4 -c copy -map 0 -f segment -segment_time 6 -reset_timestamps 1 output/Ad1/seg%03d.ts
+2025-06-04 18:24:28,401 | INFO | ====== GETTING SEGMENT DURATIONS FOR AD1 ======
+2025-06-04 18:24:28,936 | INFO | ====== SEGMENTING AD2 ======
+2025-06-04 18:24:28,940 | INFO | Running FFmpeg: ffmpeg -y -i /home/ishitasinghfaujdar/pmsltask/ads/gems.mp4 -c copy -map 0 -f segment -segment_time 6 -reset_timestamps 1 output/Ad2/seg%03d.ts
+2025-06-04 18:24:29,079 | INFO | ====== GETTING SEGMENT DURATIONS FOR AD2 ======
+2025-06-04 18:24:29,595 | INFO | ====== SEGMENTING AD3 ======
+2025-06-04 18:24:29,599 | INFO | Running FFmpeg: ffmpeg -y -i /home/ishitasinghfaujdar/pmsltask/ads/fewikwik.mp4 -c copy -map 0 -f segment -segment_time 6 -reset_timestamps 1 output/Ad3/seg%03d.ts
+2025-06-04 18:24:29,718 | INFO | ====== GETTING SEGMENT DURATIONS FOR AD3 ======
+2025-06-04 18:24:30,063 | INFO | ====== WRITING MASTER MANIFEST ======

@@ -1,0 +1,120 @@
+2025-05-19 13:05:50,943 | INFO | ====== OVERLAY PIPELINE STARTED ======
+2025-05-19 13:05:50,957 | INFO | ====== PROCESSING /HOME/ISHITASINGHFAUJDAR/PMSLTASK/INPUT/BALIKAVADHU.MP4 ======
+2025-05-19 13:05:50,962 | INFO | Running FFmpeg for /home/ishitasinghfaujdar/pmsltask/input/balikavadhu.mp4
+2025-05-19 13:05:51,246 | ERROR | ❌ FFmpeg failed with return code 254
+2025-05-19 13:05:51,252 | ERROR | ffmpeg version N-119578-geb6dc952cb Copyright (c) 2000-2025 the FFmpeg developers
+2025-05-19 13:05:51,257 | ERROR | built with gcc 11 (GCC)
+2025-05-19 13:05:51,277 | ERROR | configuration: --enable-gpl --enable-nonfree --enable-libx264 --enable-libx265 --enable-libvpx --enable-libfreetype --enable-openssl --enable-libass --enable-libmp3lame --enable-libopus --enable-libvorbis
+2025-05-19 13:05:51,297 | ERROR | libavutil      60.  2.100 / 60.  2.100
+2025-05-19 13:05:51,319 | ERROR | libavcodec     62.  3.101 / 62.  3.101
+2025-05-19 13:05:51,326 | ERROR | libavformat    62.  0.102 / 62.  0.102
+2025-05-19 13:05:51,332 | ERROR | libavdevice    62.  0.100 / 62.  0.100
+2025-05-19 13:05:51,337 | ERROR | libavfilter    11.  0.100 / 11.  0.100
+2025-05-19 13:05:51,346 | ERROR | libswscale      9.  0.100 /  9.  0.100
+2025-05-19 13:05:51,349 | ERROR | libswresample   6.  0.100 /  6.  0.100
+2025-05-19 13:05:51,356 | ERROR | Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home/ishitasinghfaujdar/pmsltask/input/balikavadhu.mp4':
+2025-05-19 13:05:51,360 | ERROR | Metadata:
+2025-05-19 13:05:51,363 | ERROR | major_brand     : isom
+2025-05-19 13:05:51,373 | ERROR | minor_version   : 512
+2025-05-19 13:05:51,376 | ERROR | compatible_brands: isomiso2mp41
+2025-05-19 13:05:51,379 | ERROR | encoder         : Lavf57.79.100
+2025-05-19 13:05:51,388 | ERROR | Duration: 00:21:47.01, start: 0.000000, bitrate: 20723 kb/s
+2025-05-19 13:05:51,392 | ERROR | Stream #0:0[0x1](und): Video: mpeg4 (Simple Profile) (mp4v / 0x7634706D), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], 19895 kb/s, 25 fps, 25 tbr, 12800 tbn (default)
+2025-05-19 13:05:51,403 | ERROR | Metadata:
+2025-05-19 13:05:51,406 | ERROR | handler_name    : VideoHandler
+2025-05-19 13:05:51,411 | ERROR | vendor_id       : [0][0][0][0]
+2025-05-19 13:05:51,414 | ERROR | timecode        : 10:00:00:00
+2025-05-19 13:05:51,418 | ERROR | Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, mono, fltp, 199 kb/s (default)
+2025-05-19 13:05:51,423 | ERROR | Metadata:
+2025-05-19 13:05:51,427 | ERROR | handler_name    : SoundHandler
+2025-05-19 13:05:51,431 | ERROR | vendor_id       : [0][0][0][0]
+2025-05-19 13:05:51,435 | ERROR | Stream #0:2[0x3](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, mono, fltp, 199 kb/s
+2025-05-19 13:05:51,440 | ERROR | Metadata:
+2025-05-19 13:05:51,444 | ERROR | handler_name    : SoundHandler
+2025-05-19 13:05:51,447 | ERROR | vendor_id       : [0][0][0][0]
+2025-05-19 13:05:51,451 | ERROR | Stream #0:3[0x4](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, mono, fltp, 1 kb/s
+2025-05-19 13:05:51,456 | ERROR | Metadata:
+2025-05-19 13:05:51,459 | ERROR | handler_name    : SoundHandler
+2025-05-19 13:05:51,462 | ERROR | vendor_id       : [0][0][0][0]
+2025-05-19 13:05:51,466 | ERROR | Stream #0:4[0x5](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, mono, fltp, 1 kb/s
+2025-05-19 13:05:51,471 | ERROR | Metadata:
+2025-05-19 13:05:51,474 | ERROR | handler_name    : SoundHandler
+2025-05-19 13:05:51,477 | ERROR | vendor_id       : [0][0][0][0]
+2025-05-19 13:05:51,481 | ERROR | Stream #0:5[0x6](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, mono, fltp, 1 kb/s
+2025-05-19 13:05:51,486 | ERROR | Metadata:
+2025-05-19 13:05:51,489 | ERROR | handler_name    : SoundHandler
+2025-05-19 13:05:51,493 | ERROR | vendor_id       : [0][0][0][0]
+2025-05-19 13:05:51,496 | ERROR | Stream #0:6[0x7](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, mono, fltp, 1 kb/s
+2025-05-19 13:05:51,501 | ERROR | Metadata:
+2025-05-19 13:05:51,505 | ERROR | handler_name    : SoundHandler
+2025-05-19 13:05:51,509 | ERROR | vendor_id       : [0][0][0][0]
+2025-05-19 13:05:51,513 | ERROR | Stream #0:7[0x8](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, mono, fltp, 199 kb/s
+2025-05-19 13:05:51,518 | ERROR | Metadata:
+2025-05-19 13:05:51,521 | ERROR | handler_name    : SoundHandler
+2025-05-19 13:05:51,525 | ERROR | vendor_id       : [0][0][0][0]
+2025-05-19 13:05:51,529 | ERROR | Stream #0:8[0x9](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, mono, fltp, 199 kb/s
+2025-05-19 13:05:51,533 | ERROR | Metadata:
+2025-05-19 13:05:51,537 | ERROR | handler_name    : SoundHandler
+2025-05-19 13:05:51,541 | ERROR | vendor_id       : [0][0][0][0]
+2025-05-19 13:05:51,545 | ERROR | Stream #0:9[0xa](eng): Data: none (tmcd / 0x64636D74)
+2025-05-19 13:05:51,550 | ERROR | Metadata:
+2025-05-19 13:05:51,554 | ERROR | handler_name    : TimeCodeHandler
+2025-05-19 13:05:51,557 | ERROR | timecode        : 10:00:00:00
+2025-05-19 13:05:51,561 | ERROR | [in#1 @ 0x572c340] Error opening input: No such file or directory
+2025-05-19 13:05:51,565 | ERROR | Error opening input file /home/ishitasinghfaujdar/pmsltask/graphics/lOGO.mov.
+2025-05-19 13:05:51,569 | ERROR | Error opening input files: No such file or directory
+2025-05-19 13:05:51,574 | INFO | ====== PROCESSING /HOME/ISHITASINGHFAUJDAR/PMSLTASK/INPUT/DORI.MP4 ======
+2025-05-19 13:05:51,578 | INFO | Running FFmpeg for /home/ishitasinghfaujdar/pmsltask/input/dori.mp4
+2025-05-19 13:05:53,404 | INFO | [ffmpeg] frame=    0 fps=0.0 q=0.0 size=       0KiB time=N/A bitrate=N/A speed=N/A elapsed=0:00:01.00
+2025-05-19 13:06:53,586 | INFO | [ffmpeg] frame=  550 fps=9.0 q=28.0 size=   10496KiB time=00:00:21.92 bitrate=3922.6kbits/s speed=0.358x elapsed=0:01:01.18
+2025-05-19 13:07:53,710 | INFO | [ffmpeg] frame=  925 fps=7.6 q=28.0 size=   21504KiB time=00:00:36.92 bitrate=4771.4kbits/s speed=0.304x elapsed=0:02:01.31
+2025-05-19 13:08:53,854 | INFO | [ffmpeg] frame= 1404 fps=7.7 q=28.0 size=   34304KiB time=00:00:56.08 bitrate=5011.0kbits/s speed=0.309x elapsed=0:03:01.45
+2025-05-19 13:09:53,980 | INFO | [ffmpeg] frame= 1844 fps=7.6 q=28.0 size=   51968KiB time=00:01:13.68 bitrate=5778.0kbits/s speed=0.305x elapsed=0:04:01.57
+2025-05-19 13:10:54,083 | INFO | [ffmpeg] frame= 2232 fps=7.4 q=28.0 size=   72192KiB time=00:01:29.20 bitrate=6630.0kbits/s speed=0.296x elapsed=0:05:01.68
+2025-05-19 13:11:54,201 | INFO | [ffmpeg] frame= 2656 fps=7.3 q=28.0 size=   92928KiB time=00:01:46.16 bitrate=7170.9kbits/s speed=0.293x elapsed=0:06:01.80
+2025-05-19 13:12:54,298 | INFO | [ffmpeg] frame= 3079 fps=7.3 q=28.0 size=  110080KiB time=00:02:03.08 bitrate=7326.7kbits/s speed=0.292x elapsed=0:07:01.90
+2025-05-19 13:13:54,412 | INFO | [ffmpeg] frame= 3481 fps=7.2 q=28.0 size=  125184KiB time=00:02:19.16 bitrate=7369.3kbits/s speed=0.289x elapsed=0:08:02.01
+2025-05-19 13:14:54,553 | INFO | [ffmpeg] frame= 3913 fps=7.2 q=28.0 size=  140800KiB time=00:02:36.44 bitrate=7373.0kbits/s speed=0.289x elapsed=0:09:02.15
+2025-05-19 13:15:54,640 | INFO | [ffmpeg] frame= 4396 fps=7.3 q=28.0 size=  156416KiB time=00:02:55.76 bitrate=7290.4kbits/s speed=0.292x elapsed=0:10:02.24
+2025-05-19 13:16:54,732 | INFO | [ffmpeg] frame= 5054 fps=7.6 q=28.0 size=  169472KiB time=00:03:22.08 bitrate=6870.1kbits/s speed=0.305x elapsed=0:11:02.33
+2025-05-19 13:17:54,836 | INFO | [ffmpeg] frame= 5577 fps=7.7 q=28.0 size=  183296KiB time=00:03:43.00 bitrate=6733.5kbits/s speed=0.309x elapsed=0:12:02.43
+2025-05-19 13:18:54,901 | INFO | [ffmpeg] frame= 6039 fps=7.7 q=28.0 size=  198656KiB time=00:04:01.48 bitrate=6739.2kbits/s speed=0.309x elapsed=0:13:02.50
+2025-05-19 13:19:55,021 | INFO | [ffmpeg] frame= 6548 fps=7.8 q=28.0 size=  213504KiB time=00:04:21.84 bitrate=6679.7kbits/s speed=0.311x elapsed=0:14:02.62
+2025-05-19 13:20:55,151 | INFO | [ffmpeg] frame= 6965 fps=7.7 q=28.0 size=  227840KiB time=00:04:38.52 bitrate=6701.4kbits/s speed=0.309x elapsed=0:15:02.75
+2025-05-19 13:21:55,258 | INFO | [ffmpeg] frame= 7434 fps=7.7 q=28.0 size=  239872KiB time=00:04:57.28 bitrate=6610.0kbits/s speed=0.309x elapsed=0:16:02.86
+2025-05-19 13:22:55,379 | INFO | [ffmpeg] frame= 7840 fps=7.7 q=28.0 size=  252160KiB time=00:05:13.52 bitrate=6588.7kbits/s speed=0.306x elapsed=0:17:02.98
+2025-05-19 13:23:55,510 | INFO | [ffmpeg] frame= 8248 fps=7.6 q=28.0 size=  265728KiB time=00:05:29.84 bitrate=6599.7kbits/s speed=0.305x elapsed=0:18:03.11
+2025-05-19 13:24:55,633 | INFO | [ffmpeg] frame= 8641 fps=7.6 q=28.0 size=  280064KiB time=00:05:45.56 bitrate=6639.3kbits/s speed=0.302x elapsed=0:19:03.23
+2025-05-19 13:25:55,740 | INFO | [ffmpeg] frame= 9174 fps=7.6 q=28.0 size=  293632KiB time=00:06:06.88 bitrate=6556.5kbits/s speed=0.305x elapsed=0:20:03.34
+2025-05-19 13:26:55,884 | INFO | [ffmpeg] frame= 9680 fps=7.7 q=28.0 size=  306432KiB time=00:06:27.12 bitrate=6484.5kbits/s speed=0.306x elapsed=0:21:03.47
+2025-05-19 13:27:55,920 | INFO | [ffmpeg] frame=10099 fps=7.6 q=28.0 size=  320256KiB time=00:06:43.88 bitrate=6495.8kbits/s speed=0.305x elapsed=0:22:03.52
+2025-05-19 13:28:55,988 | INFO | [ffmpeg] frame=10526 fps=7.6 q=28.0 size=  334080KiB time=00:07:00.96 bitrate=6501.3kbits/s speed=0.304x elapsed=0:23:03.59
+2025-05-19 13:29:56,077 | INFO | [ffmpeg] frame=11167 fps=7.7 q=28.0 size=  356096KiB time=00:07:26.60 bitrate=6531.9kbits/s speed=0.309x elapsed=0:24:03.68
+2025-05-19 13:30:56,146 | INFO | [ffmpeg] frame=12001 fps=8.0 q=28.0 size=  384000KiB time=00:07:59.96 bitrate=6554.1kbits/s speed=0.319x elapsed=0:25:03.75
+2025-05-19 13:31:56,234 | INFO | [ffmpeg] frame=12927 fps=8.3 q=28.0 size=  408064KiB time=00:08:37.00 bitrate=6465.9kbits/s speed=0.331x elapsed=0:26:03.83
+2025-05-19 13:32:56,360 | INFO | [ffmpeg] frame=13969 fps=8.6 q=28.0 size=  433152KiB time=00:09:18.68 bitrate=6351.4kbits/s speed=0.344x elapsed=0:27:03.96
+2025-05-19 13:33:56,444 | INFO | [ffmpeg] frame=14918 fps=8.9 q=28.0 size=  457472KiB time=00:09:56.64 bitrate=6281.2kbits/s speed=0.354x elapsed=0:28:04.04
+2025-05-19 13:34:56,539 | INFO | [ffmpeg] frame=15761 fps=9.0 q=28.0 size=  484864KiB time=00:10:30.36 bitrate=6301.2kbits/s speed=0.361x elapsed=0:29:04.14
+2025-05-19 13:35:56,647 | INFO | [ffmpeg] frame=16618 fps=9.2 q=28.0 size=  510976KiB time=00:11:04.64 bitrate=6298.0kbits/s speed=0.368x elapsed=0:30:04.25
+2025-05-19 13:36:56,734 | INFO | [ffmpeg] frame=17502 fps=9.4 q=28.0 size=  537600KiB time=00:11:40.00 bitrate=6291.5kbits/s speed=0.375x elapsed=0:31:04.33
+2025-05-19 13:37:56,862 | INFO | [ffmpeg] frame=18528 fps=9.6 q=28.0 size=  561920KiB time=00:12:21.04 bitrate=6211.9kbits/s speed=0.385x elapsed=0:32:04.46
+2025-05-19 13:38:56,967 | INFO | [ffmpeg] frame=19420 fps=9.8 q=28.0 size=  588288KiB time=00:12:56.72 bitrate=6204.6kbits/s speed=0.391x elapsed=0:33:04.57
+2025-05-19 13:39:57,093 | INFO | [ffmpeg] frame=20337 fps=9.9 q=28.0 size=  615168KiB time=00:13:33.44 bitrate=6195.2kbits/s speed=0.398x elapsed=0:34:04.69
+2025-05-19 13:40:57,202 | INFO | [ffmpeg] frame=21253 fps= 10 q=28.0 size=  636928KiB time=00:14:10.04 bitrate=6138.2kbits/s speed=0.404x elapsed=0:35:04.80
+2025-05-19 13:41:57,315 | INFO | [ffmpeg] frame=22124 fps= 10 q=28.0 size=  662528KiB time=00:14:44.88 bitrate=6133.5kbits/s speed=0.409x elapsed=0:36:04.92
+2025-05-19 13:42:57,411 | INFO | [ffmpeg] frame=23164 fps= 10 q=28.0 size=  687360KiB time=00:15:26.48 bitrate=6077.7kbits/s speed=0.416x elapsed=0:37:05.01
+2025-05-19 13:43:57,515 | INFO | [ffmpeg] frame=24038 fps= 11 q=28.0 size=  714496KiB time=00:16:01.44 bitrate=6087.9kbits/s speed=0.421x elapsed=0:38:05.11
+2025-05-19 13:44:57,652 | INFO | [ffmpeg] frame=24791 fps= 11 q=28.0 size=  739328KiB time=00:16:31.56 bitrate=6108.1kbits/s speed=0.423x elapsed=0:39:05.25
+2025-05-19 13:45:57,771 | INFO | [ffmpeg] frame=25663 fps= 11 q=28.0 size=  765440KiB time=00:17:06.44 bitrate=6109.0kbits/s speed=0.427x elapsed=0:40:05.37
+2025-05-19 13:46:57,884 | INFO | [ffmpeg] frame=26569 fps= 11 q=25.0 size=  789760KiB time=00:17:42.68 bitrate=6088.1kbits/s speed=0.431x elapsed=0:41:05.48
+2025-05-19 13:47:57,988 | INFO | [ffmpeg] frame=27526 fps= 11 q=28.0 size=  813312KiB time=00:18:20.96 bitrate=6051.7kbits/s speed=0.436x elapsed=0:42:05.59
+2025-05-19 13:48:58,086 | INFO | [ffmpeg] frame=28315 fps= 11 q=28.0 size=  836608KiB time=00:18:52.52 bitrate=6051.5kbits/s speed=0.438x elapsed=0:43:05.69
+2025-05-19 13:49:58,208 | INFO | [ffmpeg] frame=29125 fps= 11 q=28.0 size=  861696KiB time=00:19:24.92 bitrate=6059.7kbits/s speed=0.44x elapsed=0:44:05.81
+2025-05-19 13:50:58,314 | INFO | [ffmpeg] frame=29899 fps= 11 q=28.0 size=  884480KiB time=00:19:55.88 bitrate=6058.9kbits/s speed=0.442x elapsed=0:45:05.91
+2025-05-19 13:51:58,422 | INFO | [ffmpeg] frame=30706 fps= 11 q=28.0 size=  908288KiB time=00:20:28.16 bitrate=6058.4kbits/s speed=0.444x elapsed=0:46:06.02
+2025-05-19 13:52:58,550 | INFO | [ffmpeg] frame=31427 fps= 11 q=28.0 size=  931072KiB time=00:20:57.00 bitrate=6067.9kbits/s speed=0.445x elapsed=0:47:06.15
+2025-05-19 13:53:58,713 | INFO | [ffmpeg] frame=32353 fps= 11 q=28.0 size=  950528KiB time=00:21:34.04 bitrate=6017.4kbits/s speed=0.448x elapsed=0:48:06.31
+2025-05-19 13:54:58,782 | INFO | [ffmpeg] frame=33130 fps= 11 q=28.0 size=  980736KiB time=00:22:05.12 bitrate=6063.0kbits/s speed=0.45x elapsed=0:49:06.38
+2025-05-19 13:55:58,869 | INFO | [ffmpeg] frame=33878 fps= 11 q=28.0 size= 1017600KiB time=00:22:35.04 bitrate=6152.0kbits/s speed=0.451x elapsed=0:50:06.47
+2025-05-19 13:56:39,607 | INFO | ✅ FFmpeg finished successfully.
+2025-05-19 13:56:39,616 | INFO | ====== PIPELINE COMPLETE ======

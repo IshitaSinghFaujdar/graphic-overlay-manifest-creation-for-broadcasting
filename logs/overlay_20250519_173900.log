@@ -1,0 +1,36 @@
+2025-05-19 17:39:00,741 | INFO | ====== OVERLAY PIPELINE STARTED ======
+2025-05-19 17:39:00,743 | INFO | ====== PROCESSING INPUT/BALIKAVADHU.MP4 ======
+2025-05-19 17:39:00,744 | INFO | Running FFmpeg for input/balikavadhu.mp4
+2025-05-19 17:39:00,756 | ERROR | ❌ FFmpeg failed: ffmpeg version N-119578-geb6dc952cb Copyright (c) 2000-2025 the FFmpeg developers
+  built with gcc 11 (GCC)
+  configuration: --enable-gpl --enable-nonfree --enable-libx264 --enable-libx265 --enable-libvpx --enable-libfreetype --enable-openssl --enable-libass --enable-libmp3lame --enable-libopus --enable-libvorbis
+  libavutil      60.  2.100 / 60.  2.100
+  libavcodec     62.  3.101 / 62.  3.101
+  libavformat    62.  0.102 / 62.  0.102
+  libavdevice    62.  0.100 / 62.  0.100
+  libavfilter    11.  0.100 / 11.  0.100
+  libswscale      9.  0.100 /  9.  0.100
+  libswresample   6.  0.100 /  6.  0.100
+[overlay @ 0x4bdde80] [Eval @ 0x7ffc19e6d390] Invalid chars '<11' at the end of expression 'mod(t,180)<11'
+[overlay @ 0x4bdde80] Error when evaluating the expression 'mod(t,180)<11' for enable
+[AVFilterGraph @ 0x4bd91c0] Error initializing filters
+Error : Invalid argument
+
+2025-05-19 17:39:00,763 | INFO | ====== PROCESSING INPUT/DORI.MP4 ======
+2025-05-19 17:39:00,764 | INFO | Running FFmpeg for input/dori.mp4
+2025-05-19 17:39:00,785 | ERROR | ❌ FFmpeg failed: ffmpeg version N-119578-geb6dc952cb Copyright (c) 2000-2025 the FFmpeg developers
+  built with gcc 11 (GCC)
+  configuration: --enable-gpl --enable-nonfree --enable-libx264 --enable-libx265 --enable-libvpx --enable-libfreetype --enable-openssl --enable-libass --enable-libmp3lame --enable-libopus --enable-libvorbis
+  libavutil      60.  2.100 / 60.  2.100
+  libavcodec     62.  3.101 / 62.  3.101
+  libavformat    62.  0.102 / 62.  0.102
+  libavdevice    62.  0.100 / 62.  0.100
+  libavfilter    11.  0.100 / 11.  0.100
+  libswscale      9.  0.100 /  9.  0.100
+  libswresample   6.  0.100 /  6.  0.100
+[overlay @ 0x34de580] [Eval @ 0x7ffe13d9b040] Invalid chars '<11' at the end of expression 'mod(t,180)<11'
+[overlay @ 0x34de580] Error when evaluating the expression 'mod(t,180)<11' for enable
+[AVFilterGraph @ 0x34db000] Error initializing filters
+Error : Invalid argument
+
+2025-05-19 17:39:00,793 | INFO | ====== PIPELINE COMPLETE ======
